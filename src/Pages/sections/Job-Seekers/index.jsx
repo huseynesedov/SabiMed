@@ -49,13 +49,13 @@ function JobSection() {
 
             <div className="photoSix">
               <div>
-                <img data-aos="fade-right" src="https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1391023490850-WS0WC2UWR67G8HSQA88B/iStock_000010096594Medium.jpg" alt="" className="imgSix" />
+                <img data-aos="zoom-in" src="https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1391023490850-WS0WC2UWR67G8HSQA88B/iStock_000010096594Medium.jpg" alt="" className="imgSix" />
               </div>
               <div>
                 <img data-aos="zoom-in" src="https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1391113416286-8VL9SJ5YWDJX9SUVRTXF/iStock_000031910620Large.jpg" alt="" className="imgSix" />
               </div>
               <div>
-                <img data-aos="fade-left" src="https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1391023441259-XPAMHDJ4QJFO09L7WL4W/iStock_000021698825Large.jpg" alt="" className="imgSix" />
+                <img data-aos="zoom-in" src="https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1391023441259-XPAMHDJ4QJFO09L7WL4W/iStock_000021698825Large.jpg" alt="" className="imgSix" />
               </div>
             </div>
           </div>
