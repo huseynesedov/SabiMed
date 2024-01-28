@@ -1,0 +1,371 @@
+/* SectionThree*/
+.a{
+    display: contents;
+        text-decoration: none;
+}
+
+@media screen and (min-width: 769px) {
+    .sectionThree {
+        width: 100%;
+        height: 60.5vh;
+        display: flex;
+        align-items: center;
+        background-position: 20%;
+        background-image: url("https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1392584069560-GYYFY14GW1FOI4Y0ETYT/iStock_000008930645Large_TallWide3.jpg?format=2500w");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 70px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sectionThree {
+        width: 100%;
+        height: 60.5vh;
+        display: flex;
+        align-items: center;
+        background-position: center;
+        background-image: url("https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1392584069560-GYYFY14GW1FOI4Y0ETYT/iStock_000008930645Large_TallWide3.jpg?format=2500w");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 70px;
+    }
+}
+
+/* SectionThree-end */
+
+
+/* SectionFour */
+
+@media screen and (min-width: 769px) {
+    .sectionFour {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pFour {
+        margin-top: 20px;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 2em;
+        font-weight: 700;
+        text-transform: none;
+        font-style: normal;
+        letter-spacing: 1px;
+        text-decoration: none;
+        line-height: 1.2em;
+        color: #3E3E6A;
+    }
+
+    .sectionFour-center-center {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        justify-content: space-between;
+    }
+
+    
+
+    .sectionFour-center-center div {
+        margin-top: 30px;
+        display: flex;
+        align-items: end;
+        width: 31%;
+        box-shadow: 2px -1px 17px #1110103b;
+        background-color: aliceblue;
+        border-radius: 5px;
+        height: 250px;
+        
+    }
+
+    .sectionFour-center-center div .span {
+        width: 89%;
+        display: flex;
+        margin-bottom: 24px;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+
+    .but {
+        border-radius: 4px;
+        padding: 8px 17px;
+        color: white;
+        border: 1.5px solid white;
+        background-color: #324254b0;
+    }
+
+    .div-center {
+        width: 100%;
+        display: flex;
+        align-items: end;
+        flex-direction: column;
+    }
+
+    .div-center h1 {
+        color: white;
+        text-shadow: rgb(0 0 0) 0px 2px 12px;
+        font-size: 25px;
+        font-weight: 700;
+        transition: .5s;
+    }
+
+
+    .top {
+        margin-top: 30px;
+    }
+
+    .top-50 {
+        margin-top: 50px;
+    }
+
+    .sectionFour-center-bottom {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+    .sectionFour {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pFour {
+        margin-top: 20px;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 1.5em;
+        font-weight: 700;
+        text-transform: none;
+        font-style: normal;
+        letter-spacing: 1px;
+        text-decoration: none;
+        line-height: 1.2em;
+        color: #3E3E6A;
+    }
+
+    .sectionFour-center-center {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .sectionFour-center-center {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        justify-content: space-between;
+    }
+
+    
+
+    .sectionFour-center-center div {
+        margin-top: 30px;
+        display: flex;
+        align-items: end;
+        box-shadow: 2px -1px 17px #1110103b;
+        background-color: aliceblue;
+        border-radius: 5px;
+        height: 250px;
+        
+    }
+
+    .sectionFour-center-center div .span {
+        width: 89%;
+        display: flex;
+        margin-bottom: 24px;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+
+    .but {
+        border-radius: 4px;
+        padding: 8px 17px;
+        color: white;
+        border: 1.5px solid white;
+        background-color: #324254b0;
+    }
+
+    .div-center {
+        width: 100%;
+        display: flex;
+        align-items: end;
+        flex-direction: column;
+    }
+
+    .div-center h1 {
+        color: white;
+        text-shadow: rgb(0 0 0) 0px 2px 12px;
+        font-size: 29px;
+        font-weight: 700;
+        transition: .5s;
+    }
+
+
+    .top {
+        margin-top: 30px;
+    }
+
+    .top-50 {
+        margin-top: 50px;
+    }
+
+    .sectionFour-center-bottom {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+}
+
+.div1 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Bone-Marrow-Transplant-Surgery.png");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div2 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Liver-Transplant-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div3 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Kidney-Transplant-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div4 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Arm-Transplant-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div5 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/lengthening-surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div6 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Tongue-Tumor-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div7 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Hernia-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div8 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Cornea-and-Eye-Transplant-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div9 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Ear-Nose-Throat.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div10 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Breast-Cancer.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div11 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Stomach-Cancer-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div12 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/In-Vitro-Fertilization.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div13 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Neurology.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div14 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Neurosurgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div15 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Orthopedics.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div16 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Pancreatic-Cancer-Surgery.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div17 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/pelvis-ameliyati.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div18 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/prostat-ameliyati.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div19 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/safra-kesesi-ameliyati.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div20 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/serebral-palsi.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div21 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/ses-teli-ameliyati-1.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.div22 {
+    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/tiroid-ameliyati-1.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+
+
+/* SectionFour-end */

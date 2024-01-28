@@ -1,0 +1,117 @@
+/* SectionThree*/
+
+@media screen and (min-width: 769px) {
+    .sectionThrees {
+        width: 100%;
+        height: 30.5vh;
+        display: flex;
+        align-items: center;
+        background-position: center;
+        background-image: url("https://img.freepik.com/premium-photo/healthcare-medical-concept-medicine-doctor-with-stethoscope-hand-patients-come_34200-313.jpg?w=1380");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 0px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sectionThrees {
+        width: 100%;
+        height: 30.5vh;
+        display: flex;
+        align-items: center;
+        background-position: center;
+        background-image: url("https://img.freepik.com/premium-photo/healthcare-medical-concept-medicine-doctor-with-stethoscope-hand-patients-come_34200-313.jpg?w=1380");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 0px !important;
+    }
+}
+
+/* SectionThree-end */
+
+
+/* SectionFour */
+
+@media screen and (min-width: 769px) {
+    .sectionFour {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about-centers {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .about-centers .left {
+        font-size: 18px;
+        margin-top: 50px;
+
+        text-align: justify;
+        text-indent: 20px;
+    }
+
+    .right {
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .img1 {
+        margin-left: 40px;
+    }
+
+    .top {
+        margin-top: 30px;
+    }
+
+    .top-50 {
+        margin-top: 50px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .top {
+        margin-top: 30px;
+    }
+
+    .top-50 {
+        margin-top: 50px;
+    }
+
+    .about-centers {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .about-centers .left {
+        font-size: 18px;
+        margin-top: 50px;
+width: 100%;
+        text-align: justify;
+        text-indent: 20px;
+    }
+
+    .right {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .img1 {
+        margin-left: 40px;
+    }
+}
+
+/* SectionFour-end */

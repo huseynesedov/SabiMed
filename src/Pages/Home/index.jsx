@@ -1,0 +1,35 @@
+import React from 'react';
+import { Helmet } from "react-helmet";
+
+import Navbar from '../../Components/Nav';
+import Footer from '../../Components/Footer/footer';
+
+import Counter from '../sections/Counters';
+import EmployersSection from '../sections/Employers';
+import HealthcareSection from '../sections/Healthcare-Staffing';
+import JobSection from '../sections/Job-Seekers';
+
+const Home = () => {
+
+  return (
+    <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>SabiMed - Home</title>
+      </Helmet>
+
+      <Navbar />
+
+      <HealthcareSection />
+
+      <Counter />
+
+      <EmployersSection />
+
+      <JobSection />
+
+      <Footer />
+    </>
+  );
+};
+export default Home;

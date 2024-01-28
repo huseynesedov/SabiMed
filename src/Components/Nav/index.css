@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@200;400&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Karla", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mt-1 {
+  margin-top: 0.475rem!important;
+}
+
+article h1 {
+  margin: 1rem 0;
+}
+.navigation {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: space-between;
+  padding: 25px 39px;
+  background-color: #fff;
+  color: black;
+  box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+}
+.dropdown-menu{
+  right: -30px;
+  top: 45px;
+}
+.brand-name {
+  text-decoration: none;
+  color: black;
+  font-size: 1.3rem;
+  margin-left: -20px;
+}
+.navigation-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-menu ul {
+  display: flex;
+  padding: 0;
+  margin-top: 20px;
+}
+.navigation-menu li {
+  list-style-type: none;
+  margin: 0 1rem;
+}
+.navigation-menu li a {
+  text-decoration: none;
+  display: block;
+  transition: 0.5s;
+  color: black;
+  width: 100%;
+}
+.dunya-logo:hover{
+  color: rgba(0, 0, 255, 0.514);
+  transition: 0.5s;
+
+}
+.navigation-menu li a:hover{
+  color: rgba(0, 0, 255, 0.514);
+  transition: 0.5s;
+}
+.hamburger {
+  border: 0;
+  height: 40px;
+  width: 40px;
+  padding: 0.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  position: absolute;
+  top: 50%;
+  right: 25px;
+  transform: translateY(-50%);
+  display: none;
+}
+.hamburger:hover {
+  background-color: #a8a8a835;
+}
+@media screen and (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navigation-menu ul {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navigation-menu ul {
+    position: absolute;
+    top: 80px;
+    right: 8px;
+    border-radius: 10px;
+    flex-direction: column;
+    width: 38%;
+    background-color: rgba(255, 255, 255, 0.652);
+    border: 1px solid rgba(122, 121, 121, 0.37);
+  }
+  .navigation-menu li {
+    text-align: center;
+    margin: 0;
+  }
+  .navigation-menu li a {
+    color: black;
+    width: 100%;
+    padding: 1.5rem 0;
+  }
+  .navigation-menu li:hover {
+    border-top-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    background-color: white;
+    color: rgb(87, 87, 87);
+    font-size: 20px;
+    text-decoration:underline;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navigation-menu ul {
+    display: none;
+  }
+  .navigation-menu {
+    width: 112px;
+  }
+  .mt-1 {
+    margin-top: 0.175rem!important;
+}
+}
+@media screen and (max-width: 768px) {
+  .navigation-menu.expanded ul {
+    display: block;
+  }
+}
