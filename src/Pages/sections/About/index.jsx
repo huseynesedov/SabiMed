@@ -14,7 +14,7 @@ function About() {
                     <div className='divOne'>
                         <div>
                             <h1 className='h1One'>
-                                {t("nav.employers")}
+                                {t("nav.we")}
                             </h1>
                         </div>
                     </div>

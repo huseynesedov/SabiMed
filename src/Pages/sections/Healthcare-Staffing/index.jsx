@@ -31,11 +31,11 @@ function HealthcareSection() {
 
                 <div className="sectionTwo-center">
                     <div className="sectionTwo-center-top">
-                        <h1 data-aos="fade-up" className='h1Two'>
+                        <h1 className='h1Two'>
                             {t("HealthcarePage.wsi")}
                         </h1>
                         <small>
-                            <p data-aos="fade-up" className='pTwo'>
+                            <p className='pTwo'>
                                 {t("HealthcarePage.changing")}
                             </p>
                         </small>

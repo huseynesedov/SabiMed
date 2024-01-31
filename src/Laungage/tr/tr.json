@@ -1,42 +1,28 @@
 {
     "nav": {
-        "home": "EV",
-        "employers": "HAKKIMIZDA",
-        "blog": "İLETİŞİM"
+        "home": "Ev",
+        "we": "Biz Kimiz?",
+        "sss": "S.S.S",
+        "blog": "İletişim",
+        "areas": "Uzmanlık Alanları"
     },
     "HealthcarePage": {
-        "healthcare": "Sağlık turizmi",
-        "providing": "Sağlık Personeli 2009'dan beri Temin Ediliyor",
+        "healthcare": "Sabimed Sağlık Turzimi",
+        "providing": "Sağlığınızı Keşfedin, Dünyayı Gezin",
         "wsi": "Sağlık Turizminin Önemi",
-        "changing": "Her Seferde Bir Kişinin Hayatı Değişiyor.",
-        "since": "Sağlık turizmi, sadece tedavi görmek isteyen hastaların değil, aynı zamanda sağlık hizmetleri sunan ülkelerin ekonomik kalkınmasına da katkıda bulunmaktadır. Türkiye, sunduğu yüksek kaliteli sağlık hizmetleri ve uzman doktorları ile bu alanda öne çıkan ülkelerden biridir. Sağlık turizmi, ülkemize gelen hastaların sadece tedavi süreçleriyle değil, aynı zamanda sağlık personeli tarafından sağlanan kaliteli hizmetle de olumlu bir deneyim yaşamalarını sağlar.",
-        "job": "İş arayanlar",
+        "changing": "Sağlık turizmi, hastaların tedavi maliyetlerini düşürmenin yanı sıra yüksek kalitede sağlık hizmetleri ve tatil keyfini bir araya getirerek önemli bir alternatif sunar",
+        "since": "Bazı ülkelerde sağlık hizmetleri, özellikle estetik cerrahi, diş tedavisi, ve önemli tıbbi operasyonlar gibi alanlarda daha uygun maliyetlidir. Bu nedenle, hastalar maliyet avantajı sağlayan ülkeleri tercih edebilirler.Sağlık turizmi destinasyonları genellikle uluslararası standartlarda yüksek kaliteli sağlık hizmetleri sunmaktadır. Tecrübeli doktorlar, modern tıbbi teknoloji ve donanımlı hastaneler, hastalar için çekici kılan faktörler arasında yer almaktadır.İyileşme ve Tatil Bir Arada: Sağlık turizmi, tedavi sürecini bir tatil deneyimiyle birleştiren bir seçenek sunar. Hastalar, tedavi aldıkları süre boyunca dinlenme ve iyileşme sürecini keyifli bir ortamda geçirebilirler.Uluslararası İşbirliği ve Bilgi Transferi: Sağlık turizmi, farklı ülkeler arasında sağlık sektöründe işbirliğini artırabilir. Bu, bilgi transferi ve en iyi uygulamaların paylaşılmasını teşvik ederek küresel sağlık hizmetlerinin gelişimine katkıda bulunabilir.Ekonomik Katkı: Sağlık turizmi, destinasyon ülkeler için ekonomik bir katkı sağlar. Bu sektör, turizm gelirinin yanı sıra konaklama, yeme içme, ulaşım gibi alanlarda da ekonomik faaliyetleri artırabilir.",
         "enjoy": "Batının en iyi tıbbi personel bulma kurumlarından birinde çalışmanın avantajını yaşayın.",
         "employers": "Çalışanlar",
-        "wsihealthcare": "WSi Healthcare, batıda tıbbi personel çözümleri alanında lider bir sağlayıcıdır.",
         "current": "Mevcut çalışanlar",
         "our": "Başarımız sizin başarınıza dayanmaktadır ve size hizmet etmek için buradayız."
     },
     "EmployersPage": {
-        "employers": "Çalışanlar",
-        "find": "Harika Personel Bulun",
-        "Flexible": "Esnek Personel Çözümleri",
-        "wsi": "Ozkandan Sağlık Personeli, Batı'da tıbbi personel çözümleri alanında lider bir sağlayıcıdır.",
-        "per": "Kemik İliği Nakli Ameliyatı",
-        "temoporary": "NASIL KEMİK İLİĞİ ALINIR?",
-        "weproide": "Kemik iliği, vücuttaki kan hücrelerini üreten önemli bir organdır. Bu organın içinde bulunan kök hücreler, olgunlaşmamış hücrelerdir ve farklı kan hücrelerinin oluşumunu sağlarlar. Kök hücreler, vücuttaki çeşitli dokuların ve hücrelerin kaynağını oluşturarak kendilerini hızla yenileme özelliğine sahiptirler. Bu özellikleri, birçok hastalığın tedavisinde umut vaat etmektedir, bunlar arasında bazı kanser türleri de bulunmaktadır.",
-        "temp": "Böbrek Nakli Ameliyatı",
-        "IDENTIFY": "Böbrek Nakli Neden Yapilir?",
-        "WSiidentifies": "Böbrek nakli, böbrek yetmezliği hastalığının tedavisi için gerçekleştirilen cerrahi bir müdahaledir. Her bir organın vücut için hayati bir önemi bulunmaktadır, zira organlar birlikte çalışarak canlılığın devamlılığını sağlarlar. Bu işbirliği içinde her bir organın özel bir görevi vardır. Böbrekler, atık maddelerin kan içerisinden süzülerek idrarla atılmasını sağlamakla kalmaz, aynı zamanda vücudun sıvı ve elektrolit dengesini korumaya yardımcı olur.",
-        "direct": "Karaciğer Nakli Ameliyatı",
-        "IMMEDIATE": "Karaciğer Nakli Ameliyatı neden yapilir?",
-        "your": "Karaciğer nakli, genellikle siroz gibi nedenlerle ortaya çıkan karaciğer yetmezliği durumunda gerçekleştirilen bir cerrahi müdahaledir. Doğru zamanda ve uygun bir şekilde gerçekleştirildiğinde, karaciğer nakli operasyonunun başarı oranı oldukça yüksektir. Bu operasyon, karaciğeri yeterince çalışmayan ve nakle ihtiyaç duyan hastalara uygulanır. Nakil, kadavradan veya beyin ölümü gerçekleşmiş canlı bir donörden alınan karaciğerin hastaya nakledilmesini içerir.",
-        "employer": "Kayıt Hizmetleri İşvereni",
-        "payroll": "Bordro hizmetleri",
-        "Comprehensive": "Kapsamlı Kayıt Hizmetleri İşvereni"
+        "Flexible": "Geniş Ameliyat Seçenekleriyle",
+        "wsi": "Dünyanın Önde Gelen Sağlık Destinasyonlarından Birinde Sağlığınızı Güvence Altına Alın!"
     },
     "JobPage": {
-        "Job": "İş Arayanlar",
+        "job": "İş Arayanlar",
         "search": "Açık Pozisyonları Ara",
         "find": "Doğru İşi Bulun",
         "enjoy": "Batı bölgesindeki en büyük tıbbi personel personeli sağlayıcıları için çalışmanın avantajından yararlanın.",
@@ -44,48 +30,49 @@
         "placement": "Yerleştirme Hizmetleri",
         "healthcare": "Sağlık profesyonelleri kariyerlerine WSi Healthcare ile güveniyorlar. 1988'den bu yana WSi Sağlık profesyonelleri, WSi'nin olağanüstü yerleştirme hizmetleri, ödeme oranları ve fırsatları nedeniyle en sadık çalışanlar olmuştur. İster tam zamanlı, ister yarı zamanlı veya geçici bir pozisyona ihtiyacınız olsun, saygın sağlık profesyonellerinden oluşan ekibimize nasıl katılabileceğiniz hakkında daha fazla bilgi için bugün 855-WSi-JOBS numaralı telefondan WSI'yi arayın."
     },
-    "Blog": {
-        "blog": "WSi Blogu",
-        "your": "WSi Sağlık Personelindeki tüm olaylar için çevrimiçi kaynağınız.",
-        "navigating": "SAĞLIK PERSONELİNDE YÜKSEK SEZONLARI GELİŞTİRMEK",
-        "imagine": "Sağlık sektörünü, sakin suların hızla yükselen dalgalara dönüşebildiği, sürekli değişen bir okyanus olarak hayal edin. Yoğun sezonlarda tıbbi tesisler kendilerini bu devasa dalgalarda sörf yaparken buluyor ve dengeyi korumak için acilen yetenekli sağlık uzmanlarına ihtiyaç duyuyor. WSi Sağlık Personeli olarak, bu ritmik dalgalanmaları yalnızca anlamıyor, aynı zamanda onlara hakim oluyoruz.",
-        "TheCritical": "SAĞLIK PERSONELİNDE HIZLI MÜDAHALE'NİN KRİTİK ROLÜ",
-        "in": "Hızla gelişen sağlık alanında her saniye önemlidir. Sağlık tesisleri hastaların yararına sorunsuz bir şekilde çalışmalıdır ve personel sıkıntısı ciddi sonuçlara yol açabilir. Bu blog yazısı, sağlık personeli alımında hızlı müdahalenin önemine değiniyor.",
-        "TheRole": "Hasta Deneyiminin İyileştirilmesinde Sağlık Personelinin Rolü",
-        "inToday": "Günümüzün sürekli değişen dünyasında hasta odaklı tedavi giderek önem kazanmaktadır. Bu, tıp profesyonellerinin karar alırken ve bakım sağlarken hastalara öncelik verdiği bir paradigma değişimidir. Bu blogda, hasta odaklı bakımın geliştirilmesinde sağlık personelinin kritik rolünü ve bunun üretebileceği olumlu sonuçları inceleyeceğiz.",
-        "top": "Başarılı Radyoloji Teknologları İçin En Önemli 5 İpucu",
-        "radiology": "Radyoloji teknoloji uzmanları, tıbbi durumların teşhis ve tedavisine yardımcı olan görüntüleri yakalayarak sağlık hizmetlerinde çok önemli bir rol oynamaktadır. Bir radyoloji teknoloji uzmanı olarak tıbbi görüntüleme dünyasında başarılı olmak için teknik becerilerin, sarsılmaz profesyonelliğin ve mükemmel hasta bakım yeteneklerinin sağlam bir kombinasyonuna ihtiyacınız var. Bu en önemli beş ipucu, radyoloji teknisyeni olarak ne kadar deneyimli olursanız olun veya ne kadar yeni olursanız olun, işinizde başarılı olmanıza ve hastalarınıza en iyi bakımı sunmanıza yardımcı olabilir.",
-        "top5": "Yeni Mezun Olarak Fizik Tedavi Uzmanı Pozisyonu Almak İçin En İyi 5 İpucu",
-        "as": "Yeni mezun biri olarak, fizyoterapist olarak iş bulmak heyecan verici ama zorlu olabilir. İşte fizyoterapist olarak bir pozisyona başvururken öne çıkmanıza yardımcı olacak en iyi beş öneri!",
-        "TheTop": "Bir Ruh Sağlığı Danışmanı Olarak Başarı İçin En Önemli 5 Temel Özellik",
-        "unlocking": "Başarının Kilidini Açmak: 2023'te Tıbbi Asistan Olarak Gelişmek İçin Ne Gerekiyor?",
-        "medical": "Tıbbi asistanlar sağlık sektöründe çok önemli bir rol oynamakta, sağlık profesyonellerine paha biçilmez destek sağlamakta ve tıbbi tesislerin sorunsuz işleyişini sağlamaktadır. Tıp asistanı olarak kariyer yapmayı düşünüyorsanız istikrar, büyüme ve hastaların yaşamları üzerinde olumlu etki yaratma fırsatları sunan bir alanda ödüllendirici bir yolculuğa çıkıyorsunuz. Bu blog, bir tıp asistanı olarak başarılı olmak için gereken temel becerileri, nitelikleri ve kişisel özellikleri araştırıyor!",
-        "choosing": "1099 Kontaktör Yerine W-2 Uyumlu Tıbbi Personel Ajansı Seçmek: Bölüm II",
-        "asa": "W-2 istihdamının faydalarını ele alan geçen ayki blogun devamı olarak, sağlık çalışanlarının neden 1099 Yüklenicisi yerine W-2 uyumlu bir tıbbi personel bulma kurumunu düşünmeleri gerektiğine dair ek eğitici bilgiler sağlamanın gerekli olduğunu düşündük.",
-        "why": "Neden 1099 Kontaktör Yerine W2 Uyumlu Tıbbi Personel Ajansı Seçmelisiniz?",
-        "wsi": "WSi Sağlık Personeli, Colorado'da tıbbi tesislere güvenilir ve güvenilir sağlık personeli sağlama konusunda uzmanlaşmış, lider bir W2 sağlık personel bulma kurumudur. 1099 yüklenicinin aksine WSi Sağlık Personeli, kendisini birçok sağlık tesisi için tercih edilen seçenek haline getiren çeşitli avantajlar ve garantiler sunmaktadır. İşte 1099 Kontaktör yerine W2 uyumlu bir ajansı seçmeniz için birkaç harika neden!",
-        "WSiHealthcare": "WSi Sağlık Personeli 35. Yıldönümünü Kutluyor",
-        "for": "WSi, 35 yıldır Batı Bölgesi'ndeki sağlık kuruluşlarına en yüksek kalitede tıbbi personel hizmetleri sağlamaya kendini adamıştır. 1988 yılında kurulan tıbbi personel firmamız, çeşitli sağlık kuruluşlarına nitelikli ve yetkin tıp uzmanları sağlayarak hasta bakımını iyileştirmeye kendini adamış tutkulu profesyonellerden oluşan küçük bir ekip olarak başladı. Yıllar geçtikçe büyüdük ve geliştik, sağlık sektörünün değişen ihtiyaçlarını karşılamak için hizmetlerimizi ve tekliflerimizi genişlettik. Bize güvenen müşterilerimize ve adaylarımıza teşekkür ederiz - Siz olmasaydınız bunu başaramazdık!"
-    },
     "About": {
-        "about": "1982 yılında turizm ve sağlık sektörlerinde faaliyet göstermek üzere kurulan aile şirketi, Sabimed Grubu olarak tanımlandı. 2011 yılında, Uluslararası Hukuk alanında faaliyet göstermeye başlayarak iş alanını genişletti. Bugün, havacılık süreçlerini ekleyerek, yüksek sermayesi, deneyimli kadrosu ve profesyonel çalışma tarzıyla bir grup şirketi olarak faaliyet göstermeye devam etmektedir.Sabimed Grubu, global ve hümanist bir çalışma yaklaşımını benimsemiş olup, Azerbaycan başta olmak üzere tüm Türk ülkeleri ile sağlık ve turizm alanlarında işbirliği yapmaktadır. Amerika, Kanada, Avustralya, Hollanda, Almanya, Fransa, İtalya, Nijerya, Gana, İran, Birleşik Arap Emirlikleri, Suudi Arabistan ve Katar Sağlık Bakanlıklarına resmi başvurularını yaparak, bu ülkelerden hasta transferi gerçekleştirmektedir. İlk olarak resmi tanınan şirket olarak, Amerika Birleşik Devletleri ile 1 yıl süren yasal sigorta prosedürünü başarıyla tamamlayarak hasta transferi yapabilen iki yetkili firmadan biridir.Şirketin adı, bu metindeki Sabimed Grubu'nun adını Sabimed Turizm olarak değiştirmiştir. Kuveyt'teki diyaliz merkezi ve Kuzey Kıbrıs Türk Cumhuriyeti'nde devam eden rehabilitasyon destekli termal otel projeleri de Sabimed Turizm bünyesinde bulunmaktadır."
+        "about": "Sabimed Sağlık Turizmi; Türkiye Seyahat Acentaları Birliği (TÜRSAB) üyesi olarak, xx yıllık turizm ve seyahat deneyimini, sağlık turizmi sektöründeki uzman kişilerle birleştirerek başarıyla sürdürmektedir. Sağlık Turizm Ekibimiz, ülkemizin önde gelen sağlık merkezleri ve deneyimli hekimleri ile iş birliği yaparak yurtdışından gelen hastaların Türkiye'deki tedavilerini en üst düzeyde gerçekleştirmeyi hedeflemektedir. Türkiye genelinde İstanbul, Ankara, İzmir gibi birçok şehirde hizmet sunan firmamız, T.C. Sağlık Bakanlığı tarafından verilen uluslararası sağlık turizmi yetki belgesi ile yurt dışından gelen misafirlere sağlık danışmanlığı da sağlamaktadır.Sabimed Sağlık Turizmi Ekibi olarak, misafirlerimize ülkemizde kaliteli, güvenilir ve uygun fiyatlı bir tedavi süreci sunma önceliğine sahibiz. Her yıl yüzlerce kişinin tedavi organizasyonunu üstlenen firmamız, hastaların tedavi süreçlerine duyduğu sorumlulukla hizmet kalitesini her geçen gün artırmayı amaçlamaktadır."
     },
     "Contact": {
+        "phone":"Telefon",
+        "ofis":"Ofis Adresi",
+        "mail":"E Posta",
         "contact": "İletişim"
     },
     "footer": {
         "adress": "Adres",
         "contact": "İletişim",
-        "useful": "Kullanışlı bağlantılar",
         "send": "Göndermek",
-        "the": "1982 yılında turizm ve sağlık sektörlerinde faaliyet göstermek üzere kurulan aile şirketi, Sabimed Grubu olarak tanındı. 2011 yılında Uluslararası Hukuk alanında faaliyet göstermeye başlayan iş kapsamı genişletti. "
+        "the": "Sabimed Turizim Sağlık Turizm Ekibi; ülkemizdeki donanımlı, tecrübeli hekimler ve kurumlarla iş birliği yaparak yurtdışından sağlık turizmi için Türkiye’yi tercih eden hastalara, tedavilerinin en iyi, en gelişmiş sağlık merkezlerinde uygulanmasını sağlamaktadır. T.C. Sağlık Bakanlığı tarafından verilen uluslararası sağlık turizmi yetki belgesi ile, Yurt dışından gelen misafirlere sağlık danışmanlığı da yapan kuruluşumuz, İstanbul, Ankara, İzmir basta olmak üzere, Türkiye’nin birçok şehrinde hizmet vermektedir. "
     },
     "counters": {
-        "name": "SAYILARLA ACIBADEM SAĞLIK GRUBU",
-        "health": "HASTANE",
-        "patient":"HASTA SAYISI",
-        "personal": "PERSONEL",
-        "tip": "TIP MERKEZİ"
+        "name": "SABIMEDDE SAĞLIK QRUPU",
+        "health": "Anlaşmalı Hastane sayı",
+        "patient": "HASTA SAYISI",
+        "personal": "Personel",
+        "tip": "İyileşen hasta sayı",
+        "help": "Tedavisi Devam eden hasta sayısı"
+    },
+    "Question":{
+        "name":"Sık Sorulan Sorular",
+
+        "health":"Sağlık turizimi nedir?",
+        "ques":"Bir ülkeden diğer ülkeye herhangi bir sebeple (bekleme süresinin uzunluğu, tedavinin ekonomikliği veya daha kaliteli sağlık hizmeti v.b.) sadece tedavi için gidilmesidir.Turistin sağlığı:Yurt dışından geçici süre için gelen insanların bu süre içinde hastalanmaları ve tedavileri, turistlerin bulundukları yerlerin sağlıklı olması ve turistlere hizmet sunanların sağlığı da turist sağlığı konusuna girer.",
+        
+        "quality":"Türkiye’de Sağlık Merkezlerinin Nitelikleri Kalite Standartları Nelerdir?",
+        "ques2":"Dünya çapında bir kıyaslama yapıldığında Türkiye 51 JCI akredite sertifikalı hastanesi ile ilk sırada yer almaktadır. 1200’ün üzerinde devlet ve özel hastane ile hastalara geniş bir ağ sunulmaktadır. Özel sağlık hizmeti sağlayan kuruluşların 300’ü uluslar arası sağlık merkezleri ile yakın ilişki içindedir. Bu güçlü bağlantıların arasında; Harvard Medical International, Johns Hopkins, Mayo Clinic, Memorial Sloan-Kettering, and New York Presbyterian gibi merkezler bulunmaktadır.Birer bilim yuvası olan Üniversite ve Devlet Hastaneleri ile hizmet etmekten onur duyacaktır.",
+       
+        "treatment":"Tedavi Sürecinden Sonra Ne Kadar Zaman Daha Türkiye’de Kalmalıyım?",
+        "ques3":"Geçirmiş olduğunuz tıbbi müdahalenin özelliklerine bağlı olarak Sizin iyileşme sürecinizle doğru orantılıdır. Bu konudaki makul süreyi sizle durumunuzu istişare eden doktorunuz belirleyecektir.",
+
+        "health-treatment":"Sağlık Turizmi Tıbbi Tedavi İçin Neden Türkiye?",
+        "ques4":"Organ nakli, genetic testler, Nöroşirurji, Göz ( Dünya’nın en büyük göz kliniği ağı İstanbul’da bulunmaktadır) , Kardiyoloji, Ortopedi, Plastik Cerrahi ve Diş alanlarında elde edilen önemli başarılar Türkiye’yi sağlık turizminde ön plana çıkarmaktadır.",
+        
+        "problem":"Dil Problemini Nasıl Çözeceğim?",
+        "ques5":"Sabimed Sağlık Hizmetleri olarak sizin iletişim ihtiyacınız için her dilinizi iyi konuşabilen, sosyal ve kültürel özelliklerinizi bilen bir tercüman hizmeti verecektir.",
+
+        "come":"Türkiye’ye Gelirken Yanımda Neler Getirmeliyim?",
+        "ques6":"Sağlık probleminizle ilgili her türlü belge, rapor, bilgi içeren dökümanı getirmelisiniz."
     },
     "Bone": {
         "name": "Kemik İliği Nakli Ameliyatı",

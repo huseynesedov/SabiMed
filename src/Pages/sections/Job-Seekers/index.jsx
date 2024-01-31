@@ -70,7 +70,7 @@ function JobSection() {
                   <p data-aos="fade-down" class="card-text">
                     <strong>
 
-                      {t("HealthcarePage.Job")}
+                      {t("HealthcarePage.job")}
                     </strong>
                   </p>
                   <small data-aos="fade-up" class="text-muted">

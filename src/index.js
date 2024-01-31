@@ -1,12 +1,15 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 import Home from './App';
 import About from './Pages/About/index.jsx';
+import Expertise from './Pages/Expertise/index.jsx';
+import Question from './Pages/Question/index.jsx';
+import Contact from './Pages/Contact/contact.jsx';
 
 import Arm from './Pages/Jobs/arm.jsx';
 import Audio from './Pages/Jobs/audio.jsx';
@@ -36,15 +39,28 @@ import './Laungage/i18n.js'
 import { I18nextProvider } from "react-i18next"
 import i18next from 'i18next';
 
+function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
 
 function Index() {
   return (
     <I18nextProvider i18n={i18next}>
       <BrowserRouter>
-        <Routes> 
 
+        <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/About" element={<About />} />
+          <Route path="/Expertise" element={<Expertise />} />
+          <Route path="/Question" element={<Question />} />
+          <Route path="/Contact" element={<Contact />} />
+
           <Route path="/Arm" element={<Arm />} />
           <Route path="/Audio" element={<Audio />} />
           <Route path="/Baby" element={<Baby />} />
@@ -69,6 +85,8 @@ function Index() {
           <Route path="/Thyroid" element={<Thyroid />} />
 
         </Routes>
+        <ScrollToTop />
+
       </BrowserRouter>
     </I18nextProvider>
   );

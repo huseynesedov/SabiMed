@@ -9,10 +9,10 @@ const Sayac = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      if (sayac1 < 100) {
+      if (sayac1 < 150) {
         setSayac(sayac1 + 1);
       }
-    }, 90);
+    }, 60);
 
     return () => clearInterval(interval);
   }, [sayac1]);
@@ -33,7 +33,7 @@ const Sayac = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      if (sayac3 < 10) {
+      if (sayac3 < 50) {
         setSayac3(sayac3 + 1);
       }
     }, 70);
@@ -45,13 +45,25 @@ const Sayac = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      if (sayac4 < 100) {
+      if (sayac4 < 800) {
         setSayac4(sayac4 + 1);
       }
-    }, 90);
+    }, 10);
 
     return () => clearInterval(interval);
   }, [sayac4]);
+
+  const [sayac5, setSayac5] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      if (sayac5 < 200) {
+        setSayac5(sayac5 + 1);
+      }
+    }, 40);
+
+    return () => clearInterval(interval);
+  }, [sayac5]);
 
   const { t } = useTranslation();
 
@@ -71,7 +83,7 @@ const Sayac = () => {
 
               <div data-aos="fade-right" className="counter-div">
                 <h2>
-                  {sayac1}
+                  {sayac1}+
                 </h2>
                 <p>
                   {t("counters.health")}
@@ -79,7 +91,7 @@ const Sayac = () => {
               </div>
               <div data-aos="zoom-in" className="counter-div">
                 <h2>
-                  {sayac2}
+                  {sayac2}+
                 </h2>
                 <p>
                   {t("counters.patient")}
@@ -88,27 +100,33 @@ const Sayac = () => {
               </div>
               <div data-aos="zoom-in" className="counter-div">
                 <h2>
-                  {sayac3}
+                  {sayac3}+
                 </h2>
                 <p>
                   {t("counters.personal")}
 
                 </p>
               </div>
-              <div data-aos="fade-left" className="counter-div">
+              <div data-aos="zoom-in" className="counter-div">
                 <h2>
-                  {sayac4}
+                  {sayac4}+
                 </h2>
                 <p>
                   {t("counters.tip")}
-
+                </p>
+              </div>
+              <div data-aos="zoom-in" className="counter-div">
+                <h2>
+                  {sayac5}+
+                </h2>
+                <p>
+                  {t("counters.help")}
                 </p>
               </div>
             </div>
           </div>
         </div>
       </div>
-      {/* <div className="bot-50"></div> */}
     </>
   );
 };

@@ -1,91 +1,72 @@
 {
     "nav": {
-        "home": "ACCUEIL",
-        "employers": "À PROPOS"
+        "home": "Accueil",
+        "we": "Qui sommes-nous ?",
+        "sss": "FAQ",
+        "blog": "Contact",
+        "areas": "Domaines d'expertise"
     },
     "HealthcarePage": {
-        "healthcare": "Tourisme médical",
-        "providing": "Fournir du personnel médical depuis 2009",
-        "wsi": "L'importance du tourisme médical",
-        "changing": "Changer des vies une personne à la fois.",
-        "since": "Le tourisme médical contribue au développement économique non seulement des patients en quête de traitement, mais aussi des pays qui fournissent des services de santé. La Turquie est l'un des pays leaders dans ce domaine avec la qualité élevée des services de santé et les médecins spécialistes qu'elle propose. Le tourisme médical garantit que les patients venant dans notre pays vivent une expérience positive non seulement avec les processus de traitement, mais aussi avec la qualité du service fourni par le personnel médical.",
-        "Job": "Demandeurs d'emploi",
-        "enjoy": "Profitez de l'avantage de travailler pour l'une des meilleures agences de recrutement médical de l'ouest.",
-        "employers": "Employeurs",
-        "wsihealthcare": "WSi Healthcare est un fournisseur leader de solutions de recrutement médical dans l'ouest.",
-        "Current": "Employés actuels",
-        "our": "Notre succès est basé sur le vôtre, et nous sommes là pour vous servir."
+        "healthcare": "Tourisme de Santé Sabimed",
+        "providing": "Découvrez votre santé, parcourez le monde",
+        "wsi": "L'importance du Tourisme de Santé",
+        "changing": "Le tourisme de santé offre une alternative importante en combinant la réduction des coûts de traitement pour les patients avec la fourniture de services de santé de haute qualité et la possibilité de profiter de vacances.",
+        "since": "Dans certains pays, les services de santé, en particulier dans des domaines tels que la chirurgie esthétique, les soins dentaires et les opérations médicales importantes, peuvent être plus abordables. Ainsi, les patients peuvent préférer les pays offrant des avantages financiers. Les destinations de tourisme de santé offrent généralement des services de santé de haute qualité conformes aux normes internationales. Des médecins expérimentés, des technologies médicales modernes et des hôpitaux équipés font partie des facteurs attrayants pour les patients. Guérison et vacances en un : Le tourisme de santé propose une option combinant le processus de traitement avec une expérience de vacances. Les patients peuvent passer la période de traitement en se reposant et en récupérant dans un cadre agréable. Collaboration internationale et transfert de connaissances : Le tourisme de santé peut renforcer la coopération dans le secteur de la santé entre différents pays, favorisant ainsi le transfert de connaissances et le partage des meilleures pratiques pour contribuer au développement des services de santé mondiaux. Contribution économique : Le tourisme de santé apporte une contribution économique aux pays de destination. Ce secteur peut augmenter l'activité économique non seulement dans le domaine des recettes touristiques, mais aussi dans des domaines tels que l'hébergement, la restauration et les transports."
     },
     "EmployersPage": {
-        "employers": "EMPLOYEURS",
-        "find": "Trouver du personnel de qualité",
-        "Flexible": "Solutions de recrutement flexibles",
-        "wsi": "Ozkandan Healthcare Personnel est un fournisseur leader de solutions de recrutement médical dans l'ouest.",
-        "per": "Chirurgie de greffe de moelle osseuse",
-        "temoporary": "COMMENT EFFECTUER UNE GREFFE DE MOELLE OSSEUSE ?",
-        "weproide": "Nous fournissons des candidats disponibles pour travailler pour vous pendant un jour, une semaine ou une période prolongée. Vous et votre responsable de compte discuterez de vos besoins pour le poste temporaire. WSi trouvera ensuite le meilleur employé pour répondre à vos besoins. Nous pouvons vous fournir les références du candidat à l'avance ou envoyer l'employé temporaire dans votre bureau pour commencer le travail.",
-        "temp": "Chirurgie de greffe de rein",
-        "IDENTIFY": "Pourquoi une greffe de rein est-elle réalisée ?",
-        "WSiidentifies": "La greffe de rein est une intervention chirurgicale réalisée pour traiter la maladie d'insuffisance rénale. Chaque organe a une importance vitale pour le corps, car les organes travaillent ensemble pour assurer la continuité de la vie. Dans cette coopération, chaque organe a une tâche spéciale. Les reins filtrent non seulement les déchets du sang et les éliminent dans l'urine, mais ils aident également à maintenir l'équilibre hydrique et électrolytique du corps.",
-        "direct": "Cancer du sein",
-        "IMMEDIATE": "Quelles sont les causes du cancer du sein ?",
-        "your": "La transplantation hépatique est une intervention chirurgicale généralement réalisée en cas d'insuffisance hépatique due à des raisons telles que la cirrhose. Lorsqu'elle est réalisée au bon moment et de manière appropriée, le taux de réussite de la transplantation hépatique est assez élevé. Cette opération est réalisée sur des patients dont le foie ne fonctionne pas suffisamment et qui ont besoin d'une transplantation. La transplantation implique de transplanter le foie prélevé sur un cadavre ou un donneur vivant en mort cérébrale au patient.",
-        "employer": "Services d'employeur de référence",
-        "payrollP": "Services de paie",
-        "Comprehensive": "Services complets d'employeur de référence"
+        "Flexible": "Avec des Options d'Opération Étendues",
+        "wsi": "Assurez votre santé dans l'une des principales destinations de santé au monde !"
     },
     "JobPage": {
         "job": "Demandeurs d'emploi",
-        "search": "Recherchez des postes vacants",
-        "find": "Trouvez le bon emploi",
-        "enjoy": "Profitez de l'avantage de travailler pour l'un des plus grands fournisseurs de personnel médical dans la région ouest.",
-        "thefast": "La demande croissante de professionnels de la santé et le besoin constant de services de bureau et administratifs offrent aux employés de WSi non seulement le confort de la sécurité de l'emploi, mais aussi l'avantage de travailler pour le plus grand fournisseur de personnel médical dans la région ouest. Outre un environnement de travail intéressant et stimulant, WSi offre également une formation professionnelle et des avantages compétitifs aux employés.",
-        "placement": "Services de placement",
-        "healthcare": "Les professionnels de la santé font confiance à leur carrière avec WSi Healthcare. Depuis 1988, les professionnels de la santé de WSi Healthcare sont les plus fidèles en raison des services de placement exceptionnels, des taux de rémunération et des opportunités. Que vous ayez besoin d'un poste à temps plein, à temps partiel ou d'une opportunité temporaire, appelez WSI aujourd'hui au 855-WSi-JOBS pour plus d'informations sur la façon dont vous pouvez rejoindre notre équipe estimée de professionnels de la santé.",
-        "we": "Nous avons des opportunités immédiates pour des individus qualifiés dans ces domaines :"
-    },
-    "Blog": {
-        "blog": "Le blog WSi",
-        "your": "Votre ressource en ligne pour tout ce qui se passe chez WSi Healthcare Personnel",
-        "navigating": "NAVIGUER DANS LES SAISONS DE POINTE DANS LE RECRUTEMENT MÉDICAL",
-        "imagine": "Imaginez l'industrie de la santé comme un océan en constante évolution, où des eaux calmes peuvent rapidement se transformer en vagues imposantes. Pendant les périodes de pointe, les établissements médicaux se retrouvent à surfer sur ces vagues colossales, ayant un besoin urgent de professionnels de la santé qualifiés pour maintenir l'équilibre. Chez WSi Healthcare Personnel, nous ne comprenons pas seulement ces fluctuations rythmiques, nous les maîtrisons.",
-        "TheCritical": "LE RÔLE CRUCIAL DE LA RÉPONSE RAPIDE DANS LE RECRUTEMENT MÉDICAL",
-        "in": "Dans le domaine en constante évolution de la santé, chaque seconde compte. Les établissements de santé doivent fonctionner sans heurts dans l'intérêt de leurs patients, et les pénuries de personnel peuvent avoir des conséquences graves. Cet article de blog explore l'importance de la réponse rapide dans le recrutement médical.",
-        "TheRole": "Le rôle du recrutement médical dans l'amélioration de l'expérience patient",
-        "inToday": "Dans le monde en constante évolution d'aujourd'hui, le traitement centré sur le patient devient de plus en plus crucial. Il s'agit d'un changement de paradigme dans lequel les professionnels de la santé donnent la priorité aux patients lors de la prise de décisions et de la prestation de soins. Dans ce blog, nous explorerons le rôle crucial du recrutement médical dans l'amélioration des soins centrés sur le patient et les résultats positifs qu'il peut produire.",
-        "top": "Top 5 des conseils essentiels pour les technologues en radiologie",
-        "radiology": "Les technologues en radiologie jouent un rôle crucial dans le domaine de la santé en capturant des images qui aident au diagnostic et au traitement de conditions médicales. Pour exceller dans le monde de l'imagerie médicale en tant que technologue en radiologie, vous avez besoin d'une combinaison solide de compétences techniques, de professionnalisme inébranlable et d'excellentes capacités de soins aux patients. Ces cinq conseils peuvent vous aider à réussir dans votre travail et à offrir les meilleurs soins à vos patients, quel que soit votre niveau d'expérience en tant que technologue en radiologie.",
-        "top5": "Top 5 conseils pour obtenir un poste de physiothérapeute en tant que nouveau diplômé",
-        "as": "En tant que récent diplômé, décrocher un emploi de physiothérapeute peut être excitant mais aussi un défi. Voici les cinq suggestions pour vous aider à vous démarquer lorsque vous postulez pour un poste de physiothérapeute !",
-        "TheTop": "Les 5 traits essentiels pour réussir en tant que conseiller en santé mentale",
-        "unlocking": "Débloquer le succès : Ce qu'il faut pour réussir en tant qu'assistant médical en 2023",
-        "medical": "Les assistants médicaux jouent un rôle crucial dans l'industrie de la santé, fournissant un soutien précieux aux professionnels de la santé et assurant le bon fonctionnement des établissements médicaux. Si vous envisagez une carrière en tant qu'assistant médical, vous vous engagez dans un voyage gratifiant dans un domaine qui offre stabilité, croissance et opportunités de faire un impact positif sur la vie des patients. Ce blog explore les compétences essentielles, les qualifications et les attributs personnels nécessaires pour réussir en tant qu'assistant médical !",
-        "choosing": "Choisir une agence de recrutement médical conforme au W-2 plutôt qu'un travailleur indépendant 1099 : Partie II",
-        "asa": "En tant que suite au blog du mois dernier traitant des avantages de l'emploi W-2, nous avons jugé nécessaire de fournir des informations éducatives supplémentaires sur la raison pour laquelle les travailleurs de la santé devraient envisager une agence de recrutement médical conforme au W-2 plutôt qu'un travailleur indépendant 1099.",
-        "why": "Pourquoi choisir une agence de recrutement médical conforme au W2 plutôt qu'un travailleur indépendant 1099",
-        "wsi": "WSi Healthcare Personnel est une agence de recrutement médical W2 leader dans le Colorado, spécialisée dans la fourniture de personnel médical fiable et digne de confiance aux établissements médicaux. Contrairement aux travailleurs indépendants 1099, WSi Healthcare Personnel offre une gamme d'avantages et de garanties qui en font le choix préféré de nombreux établissements de santé. Voici plusieurs bonnes raisons pour lesquelles vous devriez choisir une agence conforme au W2 plutôt qu'un travailleur indépendant 1099 !",
-        "WSiHealthcare": "WSi Healthcare Personnel célèbre son 35e anniversaire",
-        "For": "Depuis 35 ans, WSi s'engage à fournir les meilleurs services de recrutement médical aux organisations de santé de la région ouest. Fondée en 1988, notre entreprise de recrutement médical a commencé comme une petite équipe de professionnels passionnés dédiés à améliorer les soins aux patients en fournissant des professionnels médicaux qualifiés et compétents à diverses organisations de santé. Au fil des ans, nous avons grandi et évolué, élargissant nos services et nos offres pour répondre aux besoins changeants de l'industrie de la santé. Merci à nos clients et candidats qui nous ont fait confiance - Nous n'aurions pas pu le faire sans vous !"
+        "search": "Recherchez des Postes Vacants",
+        "find": "Trouvez le Bon Travail",
+        "enjoy": "Profitez des avantages de travailler dans l'une des plus grandes agences de recrutement de personnel médical de l'Ouest.",
+        "thefast": "La demande croissante rapide de professionnels de la santé et les besoins actuels en bureautique et services administratifs ne fournissent pas seulement la sécurité de l'emploi pour les employés de WSi, mais offrent également un avantage de travail pour le plus grand fournisseur de personnel médical de l'Ouest. En plus d'un environnement de travail intéressant et stimulant, WSi propose également une formation professionnelle et des avantages concurrentiels pour ses employés."
     },
     "About": {
-        "about": "La société familiale, créée en 1982 pour opérer dans les secteurs du tourisme et de la santé, a été définie comme le groupe Sabimed. En 2011, elle a étendu son domaine d'activité en commençant à opérer dans le domaine du droit international. Aujourd'hui, en ajoutant des processus d'aviation, elle continue à opérer en tant que groupe avec son capital élevé, son personnel expérimenté et son style de travail professionnel. Le groupe Sabimed a adopté une approche de travail mondiale et humaniste et collabore avec tous les pays turcs, en particulier l'Azerbaïdjan, dans les domaines de la santé et du tourisme. Il transfère des patients de ces pays en faisant des demandes officielles aux ministères de la Santé d'Amérique, du Canada, de l'Australie, des Pays-Bas, de l'Allemagne, de la France, de l'Italie, du Nigéria, du Ghana, de l'Iran, des Émirats arabes unis, de l'Arabie saoudite et du Qatar. En tant que première entreprise officiellement reconnue, c'est l'une des deux entreprises autorisées à transférer des patients en menant à bien la procédure d'assurance légale d'un an avec les États-Unis. Le nom de l'entreprise a changé de Sabimed Group à Sabimed Tourism dans ce texte. Le centre de dialyse au Koweït et les projets d'hôtel thermal soutenus par la rééducation en cours dans la République turque de Chypre du Nord font également partie de Sabimed Tourism."
+        "about": "Tourisme de Santé Sabimed ; membre de l'Association des Agences de Voyage de Turquie (TÜRSAB), réussit à combiner plus de xx ans d'expérience dans le tourisme et les voyages avec l'expertise dans le domaine de la santé. Notre équipe de Tourisme de Santé, en collaboration avec les principaux centres de santé du pays et des médecins expérimentés, vise à assurer le traitement optimal des patients étrangers en Turquie. Notre entreprise fournit des services de conseil en santé aux visiteurs étrangers avec une autorisation internationale de tourisme de santé délivrée par le ministère de la Santé de Turquie. En tant qu'équipe de Tourisme de Santé Sabimed, notre priorité est d'offrir à nos invités un processus de traitement de qualité, fiable et abordable en Turquie. Notre entreprise, qui assume l'organisation du traitement de centaines de personnes chaque année, vise à améliorer la qualité des services chaque jour en tenant compte de la responsabilité envers les patients."
     },
     "Contact": {
+        "phone": "Téléphone",
+        "ofis": "Adresse du Bureau",
+        "mail": "Courriel",
         "contact": "Contact"
     },
     "footer": {
         "adress": "Adresse",
         "contact": "Contact",
-        "useful": "Liens utiles",
         "send": "Envoyer",
-        "the": "Fondée en 1982 en tant qu'entreprise familiale opérant dans les secteurs du tourisme et de la santé, la société familiale Sabimed Group s'est fait connaître. En 2011, elle a élargi son domaine d'activité pour inclure le droit international."
+        "the": "Équipe de Tourisme de Santé Sabimed ; assure le traitement de la santé des touristes choisissant la Turquie pour le tourisme de santé, dans les meilleurs et les plus modernes centres de santé, en collaborant avec des médecins qualifiés et des établissements à travers le pays, y compris des villes telles qu'Istanbul, Ankara et Izmir."
     },
     "counters": {
-        "name": "CHIFFRES CLÉS DU GROUPE MÉDICAL ACIBADEM",
-        "health": "HÔPITAL",
+        "name": "GROUPE DE SANTÉ SABIMED",
+        "health": "Nombre d'hôpitaux conventionnés",
         "patient": "NOMBRE DE PATIENTS",
-        "personal": "PERSONNEL",
-        "tip": "CENTRE MÉDICAL"
+        "personal": "Personnel",
+        "tip": "Nombre de patients guéris",
+        "help": "Nombre de patients en cours de traitement"
+    },
+    "Question": {
+        "name": "Questions Fréquemment Posées",
+
+        "health": "Qu'est-ce que le tourisme de santé ?",
+        "ques": "Il s'agit d'un voyage d'un pays à un autre pour une raison quelconque (longue attente, économies sur les coûts de traitement, ou pour des services de santé de meilleure qualité, etc.). La santé des touristes : les maladies et les traitements temporaires des visiteurs, les soins de santé des lieux où résident les touristes et ceux qui les desservent font également partie de la santé des touristes.",
+
+        "quality": "Quelles sont les normes de qualité des centres de santé en Turquie ?",
+        "ques2": "Lors d'une comparaison mondiale, la Turquie occupe la première place parmi les pays avec 51 hôpitaux accrédités JCI. Plus de 1200 hôpitaux publics et privés offrent un réseau étendu aux patients. 300 organisations de santé privées entretiennent des liens étroits avec des centres médicaux internationaux. Parmi ces liens solides, on trouve des établissements tels que Harvard Medical International, Johns Hopkins, Mayo Clinic, Memorial Sloan-Kettering et New York Presbyterian. Nous sommes fiers de servir dans des universités et des hôpitaux d'État qui sont des centres scientifiques.",
+
+        "treatment": "Combien de temps dois-je rester en Turquie après un traitement ?",
+        "ques3": "Cela dépend des caractéristiques de votre intervention médicale. Votre médecin déterminera une période raisonnable en fonction de l'évolution de votre rétablissement.",
+
+        "health-treatment": "Pourquoi choisir la Turquie pour le tourisme de santé ?",
+        "ques4": "Des réussites importantes dans des domaines tels que la transplantation d'organes, les tests génétiques, la neurochirurgie, les soins ophtalmologiques (la plus grande clinique ophtalmologique du monde est à Istanbul), la cardiologie, l'orthopédie, la chirurgie plastique et dentaire mettent la Turquie en avant dans le tourisme de santé.",
+
+        "problem": "Comment puis-je résoudre le problème de la barrière linguistique ?",
+        "ques5": "En tant que service de santé Sabimed, nous vous fournirons un service de traduction capable de parler couramment toutes vos langues et de connaître vos spécificités sociales et culturelles pour répondre à vos besoins de communication.",
+
+        "come": "Que dois-je apporter avec moi en venant en Turquie ?",
+        "ques6": "Vous devez apporter tous les documents, rapports et informations concernant votre problème de santé."
     },
     "Bone": {
         "name": "Opération de Greffe de Moelle Osseuse",

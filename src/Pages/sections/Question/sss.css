@@ -1,0 +1,34 @@
+.ftco-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.justify-content-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width: 768px) {
+    .col-md-8 {
+        flex: 0 0 auto;
+        width: 100% !important;
+    }
+}
+.col-md-8 {
+    flex: 0 0 auto;
+    width: 60% ;
+}
+
+.icon-acardion{
+    font-size: 20px;
+    margin-right: 15px;
+    color: #0085D0;
+}
+
+.top-10{
+    margin-top: 10px;
+}
+.top-40{
+    margin-top: 40px;
+}

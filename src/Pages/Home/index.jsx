@@ -1,5 +1,6 @@
 import React from 'react';
 import { Helmet } from "react-helmet";
+import ScrollToTop from "react-scroll-to-top";
 
 import Navbar from '../../Components/Nav';
 import Footer from '../../Components/Footer/footer';
@@ -12,16 +13,17 @@ import JobSection from '../sections/Job-Seekers';
 const Home = () => {
 
   return (
+    
     <>
       <Helmet>
         <meta charSet="utf-8" />
         <title>SabiMed - Home</title>
       </Helmet>
 
+      <ScrollToTop smooth />
       <Navbar />
 
       <HealthcareSection />
-
       <Counter />
 
       <EmployersSection />

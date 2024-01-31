@@ -1,32 +1,25 @@
 import React from 'react';
-import './index.css'
+import './expertise.css'
 
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 
-
-function EmployersSection() {
+function Expertise() {
     const { t } = useTranslation();
+
     return (
         <>
-
-            {/* SectionFour */}
+            <div className="job-infor-main">
+                <h1>
+                {t("nav.areas")}
+                </h1>
+            </div>
             <div className="sectionFour">
                 <div className="sectionTwo-center">
-                    <div className="sectionTwo-center-top">
-                        <h1 className='h1Two'>
-                            {t("EmployersPage.Flexible")}
-                        </h1>
-                        <small>
-                            <p className='pFour'>
-                                {t("EmployersPage.wsi")}
-                            </p>
-                        </small>
-                    </div>
+                    
                     <div className="top"></div>
+
                     <hr />
-
-
 
                     <div className="sectionFour-center-center">
 
@@ -332,14 +325,11 @@ function EmployersSection() {
 
 
                     </div>
-
                 </div>
 
             </div >
         </>
-
-
     );
 }
 
-export default EmployersSection;
+export default Expertise;

@@ -4,36 +4,6 @@
         text-decoration: none;
 }
 
-@media screen and (min-width: 769px) {
-    .sectionThree {
-        width: 100%;
-        height: 60.5vh;
-        display: flex;
-        align-items: center;
-        background-position: 20%;
-        background-image: url("https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1392584069560-GYYFY14GW1FOI4Y0ETYT/iStock_000008930645Large_TallWide3.jpg?format=2500w");
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        background-size: cover;
-        margin-top: 70px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .sectionThree {
-        width: 100%;
-        height: 60.5vh;
-        display: flex;
-        align-items: center;
-        background-position: center;
-        background-image: url("https://images.squarespace-cdn.com/content/v1/51b6529ce4b0c042edeedf2d/1392584069560-GYYFY14GW1FOI4Y0ETYT/iStock_000008930645Large_TallWide3.jpg?format=2500w");
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        background-size: cover;
-        margin-top: 70px;
-    }
-}
-
 /* SectionThree-end */
 
 
@@ -235,19 +205,19 @@
 }
 
 .div1 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Bone-Marrow-Transplant-Surgery.png");
+    background-image: url("https://www.koruhastanesi.com/images/haber/main/1642021203655408.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .div2 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Liver-Transplant-Surgery.jpg");
+    background-image: url("https://medipol.com.tr/medium/Faq-Image-1719-webp.vsf");
     background-size: cover;
     background-position: 50%;
 }
 
 .div3 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Kidney-Transplant-Surgery.jpg");
+    background-image: url("https://okanhastanesi.com.tr/upload/kategori/bobrek-nakli_20190225162319.png");
     background-size: cover;
     background-position: 50%;
 }
@@ -259,49 +229,49 @@
 }
 
 .div5 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/lengthening-surgery.jpg");
+    background-image: url("https://www.koruhastanesi.com/images/haber/main/boy-uzatma-ameliyati-nedir--4065.webp");
     background-size: cover;
     background-position: 50%;
 }
 
 .div6 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Tongue-Tumor-Surgery.jpg");
+    background-image: url("https://ik.imagekit.io/asm/Images/Articles/dil-kanseri-nedir-belirtileri-cesitleri-8944650.jpg?tr=w-630,h-420");
     background-size: cover;
     background-position: 50%;
 }
 
 .div7 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Hernia-Surgery.jpg");
+    background-image: url("https://medipol.com.tr/medium/Faq-Image-1633-webp.vsf");
     background-size: cover;
     background-position: 50%;
 }
 
 .div8 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Cornea-and-Eye-Transplant-Surgery.jpg");
+    background-image: url("https://www.drsafiyeyilmaz.com/storage/images/contents/kornea-nakli-15.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .div9 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Ear-Nose-Throat.jpg");
+    background-image: url("https://umithastanesi.com.tr/uploads/unit/18-1630275859.jpeg");
     background-size: cover;
     background-position: 50%;
 }
 
 .div10 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Breast-Cancer.jpg");
+    background-image: url("https://rumelihospital.com.tr/wp-content/uploads/2021/09/meme-kanseri-ile-ilgili-sikca-sorulan-sorular-700x311.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .div11 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/Stomach-Cancer-Surgery.jpg");
+    background-image: url("https://www.koruhastanesi.com/images/haber/main/mide-kanseri-tedavisi-ve-belirtileri-3218.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .div12 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/In-Vitro-Fertilization.jpg");
+    background-image: url("https://profdrmuratarslan.com.tr/wp-content/uploads/2016/11/tup-bebek-tedavisi-740-520.jpg");
     background-size: cover;
     background-position: 50%;
 }
@@ -343,7 +313,7 @@
 }
 
 .div19 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/safra-kesesi-ameliyati.jpg");
+    background-image: url("https://im.haberturk.com/l/2022/07/17/ver1673877867/3478047/jpg/640x360");
     background-size: cover;
     background-position: 50%;
 }
@@ -355,13 +325,13 @@
 }
 
 .div21 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/ses-teli-ameliyati-1.jpg");
+    background-image: url("https://www.necatienver.com.tr/storage/blog/ses-teli-yapisikligi-qoxxfpuu.png");
     background-size: cover;
     background-position: 50%;
 }
 
 .div22 {
-    background-image: url("https://ozkandangroup.com/wp-content/uploads/2023/02/tiroid-ameliyati-1.jpg");
+    background-image: url("https://magnethastanesi.com.tr/wp-content/uploads/2023/01/Tiroid-Ameliyati.jpg.webp");
     background-size: cover;
     background-position: 50%;
 }

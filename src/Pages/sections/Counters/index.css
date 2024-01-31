@@ -8,22 +8,33 @@
 .counter-center h1 {
     margin-top: 20px;
     color: white;
+    display: flex;
+    text-align: center;
 }
 
+@media screen and (max-width: 768px) {
+.counter-div {
+    width: 51% !important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+}
 .dark {
-    background-color: #092C74;
+    background-color:#0C4AA9;
 }
 
 .bot-50 {
     margin-bottom: 50px;
 }
-
+@media screen and (min-width: 769px) {
 .counter-div {
+    width: 20% ;
     display: flex;
     align-items: center;
     flex-direction: column;
 }
-
+}
 .counter-center .divss {
     width: 100%;
     justify-content: space-between;
@@ -43,7 +54,7 @@
 .counter-div p {
     font-family: "Poppins", sans-serif;
     font-size: 24px;
-    color: #1E8AC5;
+    color:#2BB68F;
     font-weight: 500;
     text-align: center;
 }

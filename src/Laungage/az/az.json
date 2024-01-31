@@ -1,91 +1,72 @@
 {
     "nav": {
-        "home": "ƏSAS SƏHİFƏ",
-        "employers": "HAQQIMIZDA"
+        "home": "Əsas Səhifə",
+        "we": "Biz Kimiyik?",
+        "sss": "Tez-tez Soruşulan Suallar",
+        "blog": "Əlaqə",
+        "areas": "İxtisas Sahələri"
     },
     "HealthcarePage": {
-        "healthcare": "Sağlık turizmi",
-        "providing": "2009-cu ildən Sağlık İşçiliyi təminatı",
+        "healthcare": "Sabimed Sağlık Turizmi",
+        "providing": "Sağlığınızı Aşkar Edin, Dünyanı Gezin",
         "wsi": "Sağlık Turizminin Əhəmiyyəti",
-        "changing": "Hər bir İnsanın Həyatını Bir Dəfədə Dəyişmək.",
-        "since": "Sağlık turizmi yalnız müalicə axtaran xəstələr üçün deyil, həm də sağlık xidməti təmin edən ölkələr üçün iqtisadi inkişafın bir hissəsinə əsaslanır. Türkiyə, təklif etdiyi yüksək keyfiyyətli sağlık xidməti və ixtisaslı həkimləri ilə bu sahədə lider ölkələrdən biridir. Sağlık turizmi, ölkəmizə gələn xəstələrin müalicə prosesləri ilə deyil, həm də tibbi personal tərəfindən təmin edilən keyfiyyətli xidmətlərlə müsbət təcrübə yaşamağını təmin edir.",
-        "Job": "İş Axtaranlar",
-        "enjoy": "Qərbin ən yaxşı tibbi işçi agentliklərindən birində işləməyin avantajının tadını çıxın.",
-        "employers": "İşəgötürənlər",
-        "wsihealthcare": "WSi Healthcare qərbdəki tibbi işçi həllləri təminatında liderdir.",
-        "Current": "Hazırkı İşçilər",
-        "our": "Uğurumuz sizin uğurunuza əsaslanır və sizin üçün buradayıq."
+        "changing": "Sağlık turizmi, xəstələrin müalicə xərclərini azaltmaqla yanaşı, yüksək keyfiyyətli sağlık xidmətlərini və tətil keyfiyyətini birləşdirərək önəmli bir alternativ təklif edir.",
+        "since": "Bəzi ölkələrdə sağlık xidmətləri, xüsusən də plastik əməliyyatlar, diş müalicəsi və əhəmiyyətli tibbi əməliyyatlar kimi sahələrdə daha münasib qiymətləndirilir. Beləliklə, xəstələr maliyyə üstünlüyü təmin edən ölkələri üstünlük edə bilərlər. Sağlık turizmi destinasiyaları ümumilikdə beynəlxalq standartlarda yüksək keyfiyyətli sağlık xidmətləri təklif edir. Təcrübəli həkimlər, müasir tibbi texnologiya və təchiz edilmiş xəstəxanalar, xəstələri cəlb edən faktorlar arasında yer alır. Şifalıq və Tətil Bir Arada: Sağlık turizmi, müalicə prosesini tətil təcrübəsi ilə birləşdirən bir seçim təklif edir. Xəstələr müalicə aldıqları müddətdə rahat və bərpa prosesini əlavə bir mühitdə keçirə bilərlər. Beynəlxalq Əməkdaşlıq və Bilik Köçürməsi: Sağlık turizmi, müxtəlif ölkələr arasında sağlık sektorunda əməkdaşlığı gücləndirə bilər. Bu, bilik köçürməsini və ən yaxşı tətbiqlərin paylaşılmasını təşvik edərək dünya sağlık xidmətlərinin inkişafına töhfə verə bilər. İqtisadi Əməkdaşlıq: Sağlık turizmi, təyinat ölkələr üçün iqtisadi bir töhfə təmin edir. Bu sahə, turizm gəliri ilə eyni zamanda qalxma, yemək içmə, nəqliyyat kimi sahələrdə də iqtisadi fəaliyyəti artırabilir."
     },
     "EmployersPage": {
-        "employers": "İŞƏGÖTÜRƏNLƏR",
-        "find": "Əla İşçi Tapın",
-        "Flexible": "Əlaqəsiz İşçi Həllləri",
-        "wsi": "Ozkandan Healthcare Personnel, Qərbin tibbi işçi həllləri təminatında liderdir.",
-        "per": "Sümük Xircləndirmə Əməliyyatı",
-        "temporary": "SÜMÜK XIRCLƏMƏK ÜÇÜN NECƏ?",
-        "weproide": "Biz sizin üçün bir gün, bir həftə və ya uzun müddət işləyə biləcək namizədlər təmin edirik. Siz və hesab idarəçiniz müvafiq vətəndaşlığınız üçün müvafiq şərtlərinizi müzakirə edəcəksiniz. WSi sonra sizin ehtiyaclarınıza ən uyğun əməkdaşı tapacaq. Biz sizə namizədin sertifikatlarını əvvəlcədən təqdim edə bilərik, ya da müvafiq işə başlamaq üçün müvəqqəti əməkdaşı ofisinizə göndərə bilərik.",
-        "temp": "Böyrün Xirclənmə Əməliyyatı",
-        "IDENTIFY": "Böyrün Xirclənməni Niyə Edirlər?",
-        "WSiidentifies": "Böyrün xirclənmə, böyrün xörək xəstəliyinin müalicəsi üçün həyata keçirilən bir cərrahi müdaxilədir. Hər bir orqan, həyatın davamını təmin etmək üçün birgə işləyən, hər bir orqanın xüsusi bir vəzifəsi var. Böyrün, yalnız qanı təmizləmək və onu idrakda atmaq üçün deyil, həm də vücudun sıvı və elektrolit qatlarına dəstək olmaq üçün kömək edir.",
-        "direct": "Sümük Xansəri",
-        "IMMEDIATE": "Sümük Xansəriyin Səbəbləri Nədir?",
-        "your": "Qaraciyər köməkçisi genelliklə siroz kimi səbəblərə bağlı olmuş qaraciyər xəstəliyi halında aparılan bir cərrahi müdaxilədir. Doğru vaxtda və uyğun şəkildə aparıldığında qaraciyər köməkçisinin uğur faizi çox yüksəkdir. Əməliyyat, qaraciyərin kifayət qədər işləməməsi və köməkçi tələb edən xəstələr üçün aparılır. Köməkçilik, bir ölü donordan və ya bir beyin ölü canlı tərəfindən götürülmüş qaraciyərin xəstəyə köçürülməsini içərir.",
-        "employer": "Qeyri-İşçi Xidmətləri",
-        "payrollP": "Əmək haqqı Xidmətləri",
-        "Comprehensive": "Ətraflı Qeyri-İşçi Xidmətləri"
+        "Flexible": "Geniş Əməliyyat Seçimləri ilə",
+        "wsi": "Dünyanın Ən Böyük Sağlık Tətil Məntəqələrindən Biri"
     },
     "JobPage": {
         "job": "İş Axtaranlar",
-        "search": "Açıq Vəzifələri Axtarın",
-        "find": "Düzgün İşi Tapın",
-        "enjoy": "Ən böyük tibbi işçi personalının təminatçılarından biri üçün işləməyin əlağətini yaşayın.",
-        "thefast": "Sağlamlıq işçilərinin sürətli artan tələbi və qeyri-şifahi və idarəetmə xidmətlərinin həmişə mövcud ehtiyacı, WSi işçilərinə sadəcə iş təminatının rahatlığını deyil, həm də qərbin ən böyük tibbi işçi personalı təminatçıları üçün işləmə avantajını verir. Maraqlı və çətin iş mühiti ilə birlikdə, WSi həm də iş təlimi və əməkdaşlar üçün mübarizə və müsabiqəli faizlər təklif edir.",
-        "placement": "Yerləşdirmə Xidmətləri",
-        "healthcare": "Sağlamlıq fachinin mütəxəssisləri karyerlarını WSi Healthcare üçün etibarlı sayır. 1988-ci ildən bəri WSi Healthcare mütəxəssisləri, mübarizə və imkanlar üçün çox tərəfdar oldular. Tam vaxtlı və ya qismən vaxtlı və ya müvəqqəti imkan tələb etsəniz, WSI-nın sağlamlıq mütəxəssisləri komandasına qoşulmağınız üçün daha çox məlumat üçün bugün 855-WSi-JOBS telefon nömrəsini zəng edin.",
-        "we": "Bu sahələrdə kvalifikasiyalı şəxslər üçün tez-tez imkanlarımız var:"
-    },
-    "Blog": {
-        "blog": "WSi Blogu",
-        "your": "WSi Healthcare Personnel-da baş verən bütün hadisələr üçün onlayn resursunuz",
-        "navigating": "SAĞLAMLIQ İŞÇİLƏRİNİN BİR ZİRZƏLİNİ YÖNƏT",
-        "imagine": "Tibbi müəssisələrin özlərinə dair sakit suların tez-tez qalabalı dalğalar kimi dönüşdüyü bir dəniz kimi təsəvvür edin. Zirvə mövsümlərində tibbi müəssisələr özlərini bu qalabalı dalğaların üzərində sörf edərkən, bacarıqlı sağlamlıq işçilərinə ehtiyac duyurlar. WSi Healthcare Personnel, bu ritmik dalğaları yalnız anlamır — onları idarə etməyi bacarıq.",
-        "TheCritical": "SÜRƏTLİ CAVABIN SAĞLAMLIQ İŞÇİLƏRİNDƏ MƏHDUD ROLU",
-        "in": "Sürətli inkişaf edən sağlamlıq sahəsində, hər saniyə hesab olunur. Sağlamlıq müəssisələri, xəstələrin faydasına, və işçi qıtlığı ciddi nəticələrə səbəb ola bilər. Bu blog məqaləsi sağlamlıq işçiliyində sürətli cavabın əhəmiyyətinə dairdir.",
-        "TheRole": "Sağlamlıq İşçiliyinin Sabahlaşdırılmasında Rolu",
-        "inToday": "Hər zaman dəyişən dünyada, xəstəyə mərkəzlənmiş müalicə əhəmiyyətli hala gəlir. Həkimlər qərarlar və tibbi xidmət göstərərkən, patsiyentləri mərkəzə qoymaq üçün. Bu blogda sağlamlıq işçiliyinin patsiyentə mərkəzlilikdə oynadığı kritik rolu və onun təsirli nəticələrini araşdıracağıq.",
-        "top": "Radiologiya Texnoloqları Üçün Uğurlu 5 Əsas Məsləhətlər",
-        "radiology": "Radiologiya texnoloqları, tibbi şərtləri diaqnoz etmək və müalicə etmək üçün əhəmiyyətli rol oynayaraq şəkilləri yakalayaraq sağlamlığa kömək edirlər. Radiologiya texnoloqu olaraq işləmək üçün nailiyyət əldə etmək üçün, texniki bacarıqların, müstəqil professionalizmin və patsiyentlərinə əlaqə qurmağı bacarmalısınız. İşləməyiniz və ya yeniyəməyinizə görə neqativ olsanız belə, bu ən yaxşı tibbi texnoloqlar kimi uğur qazanmağa kömək edə bilər.",
-        "top5": "Yeni Mezun Kimi Fizioterapist Vəzifəsini Əldə Etmək Üçün Ən Yaxşı 5 Məsləhət",
-        "as": "Yeni məzun olaraq, fizioterapist kimi vəzifə əldə etmək təəssüratlı amma müstəqil ola bilər. İşəgötürən kimi fizioterapist vəzifəsinə müraciət edərkən özünüzü nümayiş etdirməyə kömək etmək üçün ən yaxşı beş təklifi burada tapa bilərsiniz!",
-        "TheTop": "Mental Sağlamlıq Müşaviri Olaraq Uğur Üçün Əsas 5 Vacib Xüsusiyyət",
-        "unlocking": "Uğurun Kilidi: 2023-də Tibbi köməkçi kimi Uğur Qazanmaq Üçün Nə Lazımdır",
-        "medical": "Tibbi köməkçilər sağlamlıq sahəsində vacib dəstək təmin edərək sağlamlıq profesionallarına və tibbi müəssisələrin düzgün fəaliyyətini təmin edir. Tibbi köməkçi kimi karyera düşünürsəniz, sağlamlıq, inkişaf və patsiyentlərin həyatına müsbət təsir etmək üçün imkanlar təklif edən müstəqil bir sahədə mükafatlandırıcı bir səfərə çıxırsınız. Bu blog, tibbi köməkçi kimi uğur qazanmaq üçün tələb olunan əsas bacarıqları, kifayət qədər bacarıqları və şəxsi xüsusiyyətləri araşdırır!",
-        "choosing": "W-2 Uyğun Tibbi İşçi Agentliyinin Seçilməsi: II His",
-        "asa": "Ötəki ay W-2 əmək razılığı üstünlüklərini örtəyən keçmiş ayın blogunu izləyərək, sağlamlıq işçilərinin nə üçün W-2 uyğun tibbi işçi agentliyini vəzifələndirmələri üçün nə üçün nəzərdə tutmalı olduğu haqqında əlavə təhsil məlumatları təmin etmək vacib olduğunu düşündük.",
-        "why": "Niyə Bir W2 Uyğun Tibbi İşçi Agentliyini Seçməlisiniz",
-        "wsi": "WSi Healthcare Personnel, Colorado'da lider bir W2 sağlamlıq işçi agentliyi olaraq tibbi müəssisələrə güvənilir və etibarlı sağlamlıq personalı təmin edir. 1099 müqavilə müəssisələrin əksinə, WSi Healthcare Personnel bir sıra fayda və şərtlər təklif edir ki, bir çox sağlamlıq müəssisələri üçün üstün seçim edir. İşte bir W2 uyğun agentliyi seçməli olduğunuz bir neçə böyük səbəb!",
-        "WSiHealthcare": "WSi Healthcare Personnel 35-ci İlini Qeyd Edir",
-        "For": "35 ildir WSi, Qərbin Regionunda müxtəlif sağlamlıq təşkilatlarına ən yüksək keyfiyyətli tibbi işçi xidmətləri təmin etməyə ümidlidir. 1988-ci ildə qurulan, tibbi işçi agentliyimiz başlanğıcda müxtəlif sağlamlıq təşkilatlarına nitq təmin etmək məqsədilə fəaliyyət göstərən bir qrup maraqlı profesionallardan ibarət idi. İllər ərzində biz böyümüş və dəyişmişik, xidmətlərimizi və təkliflərimizi sağlamlıq sahəsində dəyişən tələblərə cavab vermək üçün genişləndirərək. Bizə güvənən müştərilərimizə və namizədlərimizə təşəkkür edirik - sizsiz bunu başarmaq mümkün olmazdı!"
+        "search": "Açıq Vəzifələri Axtar",
+        "find": "Doğru İşi Tapın",
+        "enjoy": "Qərbdəki ən böyük tibbi personal təminatı təşkil edən agentliklərdə işləmənin əlverişindən yararlanın.",
+        "thefast": "Sağlamlıq mütəxəssislərinə tələb və mövcud ihtiyacın sürətli artması, WSi işçilərinə yalnız iş təhlükəsizliyi rahatlığı təmin etmək deyil, həm də qərb bölgəsində ən böyük tibbi personal təminatı təşkil edənin iş avantajı da təklif etməklə başqa bir şey deyil. Maraqlı və çətin iş mühiti ilə birlikdə WSi, iş təlimi və müsabiqə üstünlükləri də təklif edir."
     },
     "About": {
-        "about": "Sabimed Qrupu kimi tanınan ailə şirkəti, 1982-ci ildə turizm və sağlamlıq sahəsində fəaliyyət göstərmək məqsədi ilə təsis edildi. 2011-ci ildə Beynəlxalq Hüquq sahəsində fəaliyyətə başlayaraq iş sahəsini genişləndirdi. Bugünküdür, aviasiya proseslərini də əlavə edərək, yüksək kapital, təcrübəli personal və professional iş tərzinə malik qrup şirkəti kimi fəaliyyət göstərməkdə davam edir. Sabimed Qrupu, qlobal və humanist iş tərzını qəbul etmiş və sağlamlıq və turizm sahələrində xüsusi olaraq Azərbaycan kimi bütün Türk ölkələri ilə əməkdaşlıq edir. Bu sahədə Amerika, Kanada, Avstraliya, Niderland, Almaniya, Fransa, İtaliya, Nijerya, Qana, İran, Birləşmiş Ərəb Əmirlikləri, Səudiyyə Ərəbistanı və Qətər daxil olmaq üzrə bir çox Türk ölkələrindən səhiyyə nazirləri ilə rəsmi müraciətlər edərək bu ölkələrdən xəstələri köçürür. Şirkət, Amerika ilə bir illik hüquqi sığorta prosesini uğurla başa çatdıraraq rəsmi olaraq tanınan ilk şirkətlərdən biri olaraq adını dəyişdirib və bu mətnə görə Sabimed Turizm adını qəbul edib. Kuveytdə dializ mərkəzi və Türkiyənin Şimal Kipr Respublikasında davam edən rehabilitasiya-dəstəklənən termal otel layihələri də Sabimed Turizmin tərkibindədir."
+        "about": "Sabimed Sağlık Turizmi; Türkiyə Səyahət Agentliyi Birliyi (TÜRSAB) üzvü olaraq, xx il turizm və səyahət təcrübəsini, sağlık turizmi sahəsində bacarıqlı insanlarla bir araya gətirərək uğurla davam etdirir. Sağlık Turizmi Komandamız, ölkəmizin ən başda gələn sağlık mərkəzləri və təcrübəli həkimləri ilə əməkdaşlıq edərək xaricdən gələn xəstələrin Türkiyədəki müalicələrini maksimum səviyyədə həyata keçirməyi hədəfləyir. Türkiyə üzrə İstanbul, Ankara, İzmir kimi bir çox şəhərdə xidmət göstərən şirkətimiz, T.C. Sağlık Nazirliyi tərəfindən verilən beynəlxalq sağlık turizmi sənədini əldə edərək xaricdən gələn qonaqlara sağlık məsləhətləri də təklif edir. Sabimed Sağlık Turizmi Komandası olaraq, qonaqlarımıza ölkəmizdə keyfiyyətli, etibarlı və münasib qiymətli bir müalicə prosesi təklif etmək əsas prioritetimizdir. Hər il yüz minlərlə insanın müalicə təşkilatını üstlənən şirkətimiz, müalicə prosesinə duyulan məsuliyyətlə xidmət keyfiyyətini günü-gündən artırmağı məqsəd edir."
     },
     "Contact": {
+        "phone": "Telefon",
+        "ofis": "Ofis Ünvanı",
+        "mail": "E-poçt",
         "contact": "Əlaqə"
     },
     "footer": {
-        "address": "Ünvan",
-        "useful": "Faydalı Bağlantılar",
-        "contact": "Əlaqə məlumatı",
+        "adress": "Ünvan",
+        "contact": "Əlaqə",
         "send": "Göndər",
-        "the": "Turizm və sağlamlıq sahələrində fəaliyyət göstərmək üçün 1982-ci ildə təsis edilmiş ailə şirkəti, Sabimed Qrupu kimi tanınan şirkət."
+        "the": "Sabimed Sağlık Turizmi Komandası; ölkəmizdə donanmış, təcrübəli həkimlər və təşkilatlarla əməkdaşlıq edərək Türkiyəni sağlık turizmi üçün seçən xaricdən gələn xəstələrə, müalicələrini ən yaxşı, ən inkişaf etmiş sağlık mərkəzlərində həyata keçirməyin təmin edir. T.C. Sağlık Nazirliyi tərəfindən verilən beynəlxalq sağlık turizmi icazə sənəti ilə, xaricdən gələn qonaqlara sağlık məsləhətləri də təklif edən təşkilatımız, İstanbul, Ankara, İzmir başta olmaq üçün Türkiyənin bir çox şəhərində xidmət verir."
     },
     "counters": {
-        "name": "SABİMED SAĞLAM QRUPU",
-        "health": "XƏSTƏXANA",
-        "patient": "XƏSTƏLƏRİN SAYI",
-        "personal": "İŞÇİ",
-        "tip": "TİBB MƏRKƏZİ"
+        "name": "SABIMED SAĞLİQ QURUPU",
+        "health": "Razılaşdırılmış Xəstəxana sayı",
+        "patient": "XƏSTƏ SAYISI",
+        "personal": "Əməkdaşlar",
+        "tip": "Sağalan xəstə sayı",
+        "help": "Müalicə olunan xəstə sayı"
+    },
+    "Question": {
+        "name": "Tez-tez Soruşulan Suallar",
+
+        "health": "Sağlık Turizmi nədir?",
+        "ques": "Hər hansı bir səbəbdən (gözləmə müddətinin uzunluğu, müalicənin iqtisadiyyatı və ya daha yüksək keyfiyyətli sağlık xidməti kimi) bir ölkədən digərinə yalnızca müalicə üçün səyahət etməkdir. Turistin sağlamlığı: Qısa müddət üçün gələn insanların bu müddət ərzində xəstələnmələri və müalicələri, turistlərin yaşadığı yerlərin sağlam olması və turistlərə xidmət göstərənlərin də sağlamlığı turist sağlamlığı məsələsinə daxildir.",
+
+        "quality": "Türkiyədə Sağlamlıq Mərkəzlərinin Keyfiyyət Standartları nələrdir?",
+        "ques2": "Dünya miqyasında müqayisə edildikdə Türkiyə, 51 JCI təsdiqlənmiş xəstəxanası ilə birinci sıradadır. 1200-dən çox dövlət və özəl xəstəxana, geniş bir şəbəkə təklif edir. Özəl sağlamlıq xidməti təqdim edən təşkilatların 300-dən çoxu beynəlxalq sağlamlıq mərkəzləri ilə yaxın əlaqədədir. Bu güclü əlaqələr arasında Harvard Medical International, Johns Hopkins, Mayo Clinic, Memorial Sloan-Kettering və New York Presbyterian kimi mərkəzlər daxildir. Universitet və Dövlət Xəstəxanalarına xidmət etməkdə qürur hiss edir.",
+
+        "treatment": "Tibbi Müalicədən Sonra Türkiyədə Ne qədər Zaman Qalmalıyam?",
+        "ques3": "Keçirdiyiniz tibbi müdaxilənin xüsusiyyətlərinə bağlı olaraq, Sizin bərpa prosesinizlə müqayisədə müəyyən edilmiş razı müddət doktorunuz tərəfindən təyin ediləcəkdir.",
+
+        "health-treatment": "Gələcəkdə Sağlık Turizmi üçün Niyə Türkiyə?",
+        "ques4": "Orqan köçürməsi, genetik testlər, Nöroşirurqi, Göz (Dünyanın ən böyük göz klinika şəbəkəsi İstanbulda yerləşir), Kardiologiya, Ortopedi, Plastik Cərrahi və Stomatologiyada əldə olunan əhəmiyyətli nailiyyətlər Türkiyəni sağlık turizmində özündən danışdırır.",
+
+        "problem": "Dil Problemimi Necə Həll Edəcəyəm?",
+        "ques5": "Sabimed Sağlamlıq Xidmətləri olaraq, sizin kommunikasiya tələblərinizi qarşılamak üçün bütün dilinizdə bacarıqla danışa bilən və sosial və mədəni xüsusiyyətlərinizi anlayan bir tərcümə xidməti təqdim edirik.",
+
+        "come": "Türkiyəyə Gələrkən Yanımda Nələr Gətirməliyəm?",
+        "ques6": "Sizin sağlamlıq probleminizlə bağlı bütün sənədləri, hesabatları və məlumatları gətirməlisiniz."
     },
     "Bone": {
         "name": "Sümük İliyi Transplantasiyası Cərrahiyyəsi",

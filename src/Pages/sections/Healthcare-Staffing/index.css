@@ -1,5 +1,7 @@
 /* SectionOne */
 
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu&display=swap');
+
 @media screen and (max-width: 768px) {
     .sectionOne {
         background-position: 60% !important;
@@ -16,10 +18,7 @@
     }
 
     .sectionOne-centerLeft div h1 {
-        font-family: "Helvetica Neue", Arial, sans-serif;
         font-size: 1.5em;
-        color: #3E3E6A;
-
     }
 
     .divOne {
@@ -33,11 +32,7 @@
     }
 
     .divTwo p {
-        font-family: "Helvetica Neue", Arial, sans-serif;
-        font-size: 0.85em;
-        font-weight: 700;
-        letter-spacing: 1px;
-        line-height: 1.6em;
+        font-size: 1.1rem !important;
     }
 
     .photo-text {
@@ -88,12 +83,12 @@
 }
 
 .h1One {
-    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Roboto';
     font-size: 3.2em;
     font-weight: 700;
     letter-spacing: 3.5px;
     padding: 10px 20px;
-    color: #3E3E6A;
+    color: #0085D0;
 
 }
 
@@ -107,22 +102,15 @@
 
 .divTwo p {
     margin: 0 0 0.25em;
-    font-family: "PT Serif", serif;
+    color: #2D34A9;
     font-size: 17px;
     text-transform: none;
-    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Ubuntu';
     font-size: 1.2em;
     font-weight: 600;
-    text-transform: capitalize;
     font-style: normal;
     letter-spacing: 1px;
     line-height: 1.6em;
-    text-decoration: none;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
-    position: relative;
-    z-index: inherit;
 }
 
 /* SectionOne-end */
@@ -154,7 +142,7 @@
         font-size: 3.2em;
         font-weight: 700;
         letter-spacing: 3.5px;
-        color: #3E3E6A;
+        color: #0085D0;
 
     }
 
@@ -187,10 +175,10 @@
     }
 
     .h1Three {
-        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-family: 'Roboto';
         font-size: 1.8em;
-        font-weight: 700;
-        color: #3E3E6A;
+        font-weight: 900;
+        color: #0085D0;
         text-transform: none;
         font-style: normal;
         letter-spacing: 1px;
@@ -253,10 +241,10 @@
 
     .h1Two {
         font-family: "Helvetica Neue", Arial, sans-serif;
-        font-size: 1.2em;
+        font-size: 2em;
         font-weight: 700;
         letter-spacing: 3.5px;
-        color: #3E3E6A;
+        color:#0085D0;
 
     }
 
@@ -292,10 +280,10 @@
 
     .h1Three {
         margin-top: 20px;
-        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-family: "Roboto";
         font-size: 1.8em;
         font-weight: 700;
-        color: #3E3E6A;
+        color: #0085D0;
         text-transform: none;
         font-style: normal;
         letter-spacing: 1px;

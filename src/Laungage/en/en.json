@@ -1,91 +1,72 @@
 {
     "nav": {
-        "home": "HOME",
-        "employers": "ABOUT"
+        "home": "Home",
+        "we": "Who We Are?",
+        "sss": "FAQ",
+        "blog": "Contact",
+        "areas": "Expertise Areas"
     },
     "HealthcarePage": {
-        "healthcare": "Health tourism",
-        "providing": "Providing Healthcare Staffing Since 2009",
+        "healthcare": "Sabimed Health Tourism",
+        "providing": "Discover Your Health, Explore the World",
         "wsi": "The Importance of Health Tourism",
-        "changing": "Changing Lives One Person At A Time.",
-        "since": "Health tourism contributes to the economic development of not only patients seeking treatment, but also the countries that provide health services. Turkey is one of the leading countries in this field with the high quality health services and specialist doctors it offers. Health tourism ensures that patients coming to our country have a positive experience not only with the treatment processes but also with the quality service provided by the medical staff.",
-        "Job": "Job Seekers",
-        "enjoy": "Enjoy the advantage of working for one of the best medical staffing agencies in the west.",
-        "employers": "Employers",
-        "wsihealthcare": "WSi Healthcare is a leading provider of medical staffing solutions in the west.",
-        "Current": "Current Employees",
-        "our": "Our success is based on your success and we are here to serve you."
+        "changing": "Health tourism offers a significant alternative by combining the reduction of treatment costs for patients with the provision of high-quality health services and the opportunity to enjoy a vacation.",
+        "since": "In some countries, health services, especially in areas such as plastic surgery, dental treatment, and major medical operations, may be more cost-effective. Therefore, patients may prefer countries that provide financial advantages. Health tourism destinations generally offer high-quality health services in accordance with international standards. Experienced doctors, modern medical technology, and well-equipped hospitals are among the factors that attract patients. Healing and Vacation in One: Health tourism offers an option that combines the treatment process with a vacation experience. Patients can spend the treatment period relaxing and recovering in a pleasant environment. International Collaboration and Knowledge Transfer: Health tourism can enhance cooperation in the health sector between different countries, thus encouraging the transfer of knowledge and sharing best practices to contribute to the development of global health services. Economic Contribution: Health tourism provides an economic contribution to destination countries. This sector can increase economic activity not only in terms of tourism revenue but also in areas such as accommodation, food, and transportation."
     },
     "EmployersPage": {
-        "employers": "EMPLOYERS",
-        "find": "Find Great Staff",
-        "Flexible": "Flexible Staffing Solutions",
-        "wsi": "Ozkandan Healthcare Personnel is a leading provider of medical staffing solutions in the West.",
-        "per": "Bone Marrow Transplant Surgery",
-        "temoporary": "HOW TO TAKE BONE MARROW?",
-        "weproide": "We provide candidates that are available to work for you for one day, one week, or an extended period of time.  You and your account manager will discuss your requirements for the temporary position.  WSi will then find the best employee to fit your needs.  We can provide you with the candidate’s credentials in advance, or send the temporary employee to your office to start work. ",
-        "temp": "Kidney Transplant Surgery",
-        "IDENTIFY": "Why is Kidney Transplant Done?",
-        "WSiidentifies": "Kidney transplant is a surgical intervention performed for the treatment of kidney failure disease. Each organ has a vital importance for the body, because organs work together to ensure the continuity of life. In this cooperation, each organ has a special task. The kidneys not only filter waste materials from the blood and excrete them in urine, but also help maintain the body's fluid and electrolyte balance.",
-        "direct": "Breast Cancer",
-        "IMMEDIATE": "What causes Breast Cancer?",
-        "your": "Liver transplantation is a surgical intervention usually performed in cases of liver failure caused by reasons such as cirrhosis. When performed at the right time and appropriately, the success rate of liver transplantation is quite high. This operation is performed on patients whose liver is not functioning sufficiently and who need a transplant. Transplantation involves transplanting the liver taken from a cadaver or a brain-dead living donor to the patient.",
-        "employer": "Employer of Record Services",
-        "payrollP": "Payroll Services",
-        "Comprehensive": "Comprehensive Employer of Record Services"
+        "Flexible": "With Extensive Operation Options",
+        "wsi": "Ensure Your Health in One of the World's Leading Health Destinations!"
     },
     "JobPage": {
         "job": "Job Seekers",
-        "search": "Search For Open Positions",
-        "find": "Find The Right Job",
-        "enjoy": "Enjoy the advantage of working for the largest providers of medical staffing personnel in the western region. ",
-        "thefast": "The fast growing demand for healthcare professionals and the ever present need for clerical and administrative services gives WSi employees not only the comfort of job security but the advantage of working for the largest provider of medical staffing personnel in the western region.  Along with an interesting and challenging work environment, WSi also offers job training and competitive benefits for employees.",
-        "placement": "Placement Services",
-        "healthcare": "Healthcare professionals trust their careers with WSi Healthcare. Since 1988, WSi Healthcare professionals have been the most loyal because of WSi’s outstanding placement services, pay rates and opportunities.  Whether you need a full time position, part time or temporary opportunity, Call WSI today at 855-WSi-JOBS for more information on how you can join our esteemed team of healthcare professionals.",
-        "we": "We have immediate opportunities for qualified individuals in these areas:"
-    },
-    "Blog": {
-        "blog": "The WSi Blog",
-        "your": "Your online resource for all the happenings at WSi Healthcare Personnel",
-        "navigating": "NAVIGATING PEAK SEASONS IN HEALTHCARE STAFFING",
-        "imagine": "Imagine the healthcare industry as an ever-changing ocean, where calm waters can swiftly turn into towering waves. During peak seasons, medical facilities find themselves surfing these colossal waves, urgently needing skilled healthcare professionals to maintain balance. At WSi Healthcare Personnel, we don't just understand these rhythmic fluctuations—we master them.",
-        "TheCritical": "THE CRITICAL ROLE OF RAPID RESPONSE IN HEALTHCARE STAFFING",
-        "in": "In the rapidly evolving field of healthcare, every second matters. Healthcare facilities must run smoothly for the benefit of their patients, and staffing shortages can have serious repercussions. This blog post delves into the importance of rapid response in healthcare staffing.",
-        "TheRole": "The Role Of Healthcare Staffing In Improving The Patient Experience",
-        "inToday": "In today's constantly changing world, patient-centered treatment is becoming increasingly crucial. It is a paradigm shift in which medical professionals prioritize patients when making decisions and providing care. In this blog, we'll explore the critical role of healthcare staffing in enhancing patient-centered care and the positive outcomes it can produce. ",
-        "top": "Top 5 Essential Tips For Successful Radiology Technologists",
-        "radiology": "Radiology technologists play a crucial role in healthcare by capturing images that aid in diagnosing and treating medical conditions. To excel in the world of medical imaging as a radiology technologist, you need a solid combination of technical skills, unwavering professionalism, and excellent patient care abilities. These top five tips can help you succeed in your job and offer the finest care to your patients, regardless of how experienced you are as a radiology tech or how new you are.  ",
-        "top5": "Top 5 Tips for Getting a Physical Therapist Position as a New Graduate",
-        "as": "As a recent graduate, securing a job as a physical therapist can be exciting yet challenging. Here are the top five suggestions to help you stand out when applying for a position as a physical therapist!",
-        "TheTop": "The Top 5 Essential Traits for Success as a Mental Health Counselor",
-        "unlocking": "Unlocking Success: What It Takes To Trive As A Medical Assistant in 2023",
-        "medical": "Medical assistants play a crucial role in the healthcare industry, providing invaluable support to healthcare professionals and ensuring the smooth functioning of medical facilities. If you're considering a career as a medical assistant, you're embarking on a rewarding journey in a field that offers stability, growth, and opportunities to make a positive impact on patients' lives.  This blog explores the essential skills, qualifications, and personal attributes required to thrive as a medical assistant!  ",
-        "choosing": "Choosing a W-2 Compliant Medical Staffing Agency Over a 1099 Contactor: Part II",
-        "asa": "As a follow-up to last month's blog covering the benefits of W-2 employment, we felt it was necessary to provide additional educational information about why healthcare workers should consider a W-2-compliant medical staffing agency over a 1099 Contractor.",
-        "why": "Why You Should Choose A W2 Compliant Medical Staffing Agency Over A 1099 Contactor",
-        "wsi": "WSi Healthcare Personnel is a leading W2 healthcare staffing agency in Colorado specializing in providing reliable and trustworthy healthcare personnel to medical facilities. Unlike the 1099 contractors, WSi Healthcare Personnel offers a range of benefits and guarantees that make it the preferred choice for many healthcare facilities. Here are several great reasons Why you should choose a W2-compliant agency over a 1099 Contactor! ",
-        "WSiHealthcare": "WSi Healthcare Personnel Celebrates 35th Anniversary",
-        "For": "For 35 years, WSi has been committed to providing the highest quality medical staffing services to healthcare organizations throughout the Western Region. Founded in 1988, our medical staffing firm started as a small team of passionate professionals dedicated to improving patient care by providing qualified and competent medical professionals to various healthcare organizations. Over the years, we have grown and evolved, expanding our services and offerings to meet the changing needs of the healthcare industry. Thank you to our clients and candidates who have trusted us - We couldn't have done it without you!"
+        "search": "Search Open Positions",
+        "find": "Find the Right Job",
+        "enjoy": "Benefit from working with one of the largest medical staffing agencies in the West.",
+        "thefast": "The rapidly increasing demand for healthcare professionals and the current need for office and administrative services not only provide job security for WSi employees but also offer a work advantage for the largest medical staffing provider in the West. In addition to an interesting and challenging work environment, WSi also provides job training and competitive advantages to its employees."
     },
     "About": {
-        "about": "The family company, established in 1982 to operate in the tourism and health sectors, was defined as Sabimed Group. In 2011, he expanded his business area by starting to operate in the field of International Law. Today, by adding aviation processes, it continues to operate as a group company with its high capital, experienced staff and professional working style. Sabimed Group has adopted a global and humanist working approach and cooperates with all Turkish countries, especially Azerbaijan, in the fields of health and tourism. . It transfers patients from these countries by making official applications to the Ministries of Health of America, Canada, Australia, Netherlands, Germany, France, Italy, Nigeria, Ghana, Iran, United Arab Emirates, Saudi Arabia and Qatar. As the first officially recognized company, it is one of the two authorized companies that can transfer patients by successfully completing the 1-year legal insurance procedure with the United States. The name of the company has changed the name of the Sabimed Group in this text to Sabimed Tourism. The dialysis center in Kuwait and the ongoing rehabilitation-supported thermal hotel projects in the Turkish Republic of Northern Cyprus are also within Sabimed Tourism."
+        "about": "Sabimed Health Tourism; as a member of the Association of Turkish Travel Agencies (TÜRSAB), successfully combines over xx years of experience in tourism and travel with expertise in the health tourism sector. Our Health Tourism Team aims to ensure the optimal treatment of foreign patients in Turkey by collaborating with the leading health centers in the country and experienced doctors. Our company provides health advisory services to foreign visitors with an international health tourism authorization issued by the Turkish Ministry of Health. As the Sabimed Health Tourism Team, our priority is to offer our guests a quality, reliable, and affordable treatment process in Turkey. Our company, which takes on the organization of the treatment of hundreds of people every year, aims to improve service quality every day with a sense of responsibility towards patients."
     },
     "Contact": {
+        "phone": "Phone",
+        "ofis": "Office Address",
+        "mail": "Email",
         "contact": "Contact"
     },
     "footer": {
         "adress": "Address",
-        "useful": "Useful links",
-        "contact": "Communication",
+        "contact": "Contact",
         "send": "Send",
-        "the": "The family company, established in 1982 to operate in the tourism and health sectors, became known as Sabimed Group. "
+        "the": "Sabimed Health Tourism Team; ensures the health treatment of tourists choosing Turkey for health tourism, in the best and most advanced health centers, collaborating with qualified doctors and establishments throughout the country, including cities such as Istanbul, Ankara, and Izmir."
     },
     "counters": {
-        "name": "ACIBADEM HEALTH GROUP IN NUMBERS",
-        "health": "HOSPITAL",
+        "name": "SABIMED HEALTH GROUP",
+        "health": "Number of Affiliated Hospitals",
         "patient": "NUMBER OF PATIENTS",
-        "personal": "EMPLOYEE",
-        "tip": "MEDICAL CENTER"
+        "personal": "Personnel",
+        "tip": "Number of Recovered Patients",
+        "help": "Number of Patients Undergoing Treatment"
+    },
+    "Question": {
+        "name": "Frequently Asked Questions",
+
+        "health": "What is health tourism?",
+        "ques": "It is a journey from one country to another for any reason (long waiting times, cost-effectiveness of treatment, or higher quality health services, etc.). Tourist health: the illnesses and temporary treatments of people coming temporarily from abroad, the health care of the places where tourists stay, and the health of those who serve tourists are also part of tourist health.",
+
+        "quality": "What are the quality standards of health centers in Turkey?",
+        "ques2": "On a global comparison, Turkey ranks first among countries with 51 JCI-accredited hospitals. Over 1200 public and private hospitals provide an extensive network for patients. 300 private health service organizations are closely related to international health centers. Among these strong connections are institutions such as Harvard Medical International, Johns Hopkins, Mayo Clinic, Memorial Sloan-Kettering, and New York Presbyterian. Proud to serve in universities and state hospitals that are scientific centers.",
+
+        "treatment": "How long should I stay in Turkey after treatment?",
+        "ques3": "It depends on the characteristics of your medical intervention. Your doctor will determine a reasonable time based on the progress of your recovery.",
+
+        "health-treatment": "Why choose Turkey for health tourism?",
+        "ques4": "Significant achievements in areas such as organ transplantation, genetic tests, neurosurgery, ophthalmology (the world's largest eye clinic network is in Istanbul), cardiology, orthopedics, plastic surgery, and dentistry highlight Turkey in health tourism.",
+
+        "problem": "How will I solve the language barrier?",
+        "ques5": "As Sabimed Health Services, we will provide you with a translation service that can fluently speak all your languages and understand your social and cultural specifics to meet your communication needs.",
+
+        "come": "What should I bring when coming to Turkey?",
+        "ques6": "You should bring all documents, reports, and information related to your health problem."
     },
     "Bone": {
         "name": "Bone Marrow Transplant Surgery",

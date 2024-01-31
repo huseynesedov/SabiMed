@@ -17,8 +17,8 @@ function Footer() {
             <footer>
                 <div className="container">
                     <div className="footer_content">
-                        <div className="first_section">
-                            <h3 className="footer_headings">{t("nav.employers")}</h3>
+                        <div className="first_section div">
+                            <h3 className="footer_headings">{t("nav.we")}</h3>
                             <img src="images/logo-1.png" alt="" />
                             <p>
                                 {t("footer.the")}
@@ -37,18 +37,7 @@ function Footer() {
                                 </Link>
                             </div>
                         </div>
-                        <div className="second_section">
-                            <h3 className="footer_headings">{t("footer.useful")}</h3>
-                            <ul>
-                                <li>
-                                    <Link to="/">{t("nav.home")}</Link>
-                                </li>
-                                <li>
-                                    <Link to="">{t("nav.employers")}</Link>
-                                </li>
-                            </ul>
-                        </div>
-                        <div className="third_section">
+                        <div className="third_section div222">
                             <h3 className="footer_headings">{t("footer.adress")}</h3>
                             <ul>
                                 <li>
@@ -73,7 +62,7 @@ function Footer() {
                                 </li>
                             </ul>
                         </div>
-                        <div className="fourth_section">
+                        <div className="fourth_section div">
                             <h3 className="footer_headings">{t("footer.contact")}</h3>
                             <form action="#">
                                 <div className="form_control">
