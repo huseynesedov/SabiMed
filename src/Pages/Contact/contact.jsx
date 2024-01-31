@@ -2,6 +2,7 @@ import Contact from '../sections/Contact/index.jsx';
 
 import Navbar from '../../Components/Nav';
 import Footer from '../../Components/Footer/footer';
+import { Helmet } from 'react-helmet';
 
 function contact() {
 
