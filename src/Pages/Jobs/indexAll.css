@@ -3,7 +3,7 @@
     height: 20vh;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(90deg, #0085D0 90%,#5AD7BF 100%);
+    background-image: linear-gradient(90deg, #0085D0 0%,#5AD7BF 70%);
 }
 .job-infor-main h1{
     color: white;

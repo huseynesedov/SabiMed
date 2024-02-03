@@ -8,7 +8,6 @@ import Footer from '../../Components/Footer/footer';
 import Counter from '../sections/Counters';
 import EmployersSection from '../sections/Employers';
 import HealthcareSection from '../sections/Healthcare-Staffing';
-import JobSection from '../sections/Job-Seekers';
 
 const Home = () => {
 
@@ -27,8 +26,6 @@ const Home = () => {
       <Counter />
 
       <EmployersSection />
-
-      <JobSection />
 
       <Footer />
     </>

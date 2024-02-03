@@ -31,7 +31,7 @@ function Arm() {
                     <div className="xet"></div>
                     <h5 className='h5'>
 
-                        {t("breast.infor")}
+                        {t("breast.info")}
                     </h5>
 
                 </div>

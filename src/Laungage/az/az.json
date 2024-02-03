@@ -1,7 +1,7 @@
 {
     "nav": {
         "home": "Əsas Səhifə",
-        "we": "Biz Kimiyik?",
+        "we": "Biz Kimiy?",
         "sss": "Tez-tez Soruşulan Suallar",
         "blog": "Əlaqə",
         "areas": "İxtisas Sahələri"
@@ -15,15 +15,9 @@
     },
     "EmployersPage": {
         "Flexible": "Geniş Əməliyyat Seçimləri ilə",
-        "wsi": "Dünyanın Ən Böyük Sağlık Tətil Məntəqələrindən Biri"
+        "wsi": "Sağlamlığınızı Dünyanın Aparıcı Sağlamlıq Məkanlarından Birində Təmin Edin!"
     },
-    "JobPage": {
-        "job": "İş Axtaranlar",
-        "search": "Açıq Vəzifələri Axtar",
-        "find": "Doğru İşi Tapın",
-        "enjoy": "Qərbdəki ən böyük tibbi personal təminatı təşkil edən agentliklərdə işləmənin əlverişindən yararlanın.",
-        "thefast": "Sağlamlıq mütəxəssislərinə tələb və mövcud ihtiyacın sürətli artması, WSi işçilərinə yalnız iş təhlükəsizliyi rahatlığı təmin etmək deyil, həm də qərb bölgəsində ən böyük tibbi personal təminatı təşkil edənin iş avantajı da təklif etməklə başqa bir şey deyil. Maraqlı və çətin iş mühiti ilə birlikdə WSi, iş təlimi və müsabiqə üstünlükləri də təklif edir."
-    },
+    
     "About": {
         "about": "Sabimed Sağlık Turizmi; Türkiyə Səyahət Agentliyi Birliyi (TÜRSAB) üzvü olaraq, xx il turizm və səyahət təcrübəsini, sağlık turizmi sahəsində bacarıqlı insanlarla bir araya gətirərək uğurla davam etdirir. Sağlık Turizmi Komandamız, ölkəmizin ən başda gələn sağlık mərkəzləri və təcrübəli həkimləri ilə əməkdaşlıq edərək xaricdən gələn xəstələrin Türkiyədəki müalicələrini maksimum səviyyədə həyata keçirməyi hədəfləyir. Türkiyə üzrə İstanbul, Ankara, İzmir kimi bir çox şəhərdə xidmət göstərən şirkətimiz, T.C. Sağlık Nazirliyi tərəfindən verilən beynəlxalq sağlık turizmi sənədini əldə edərək xaricdən gələn qonaqlara sağlık məsləhətləri də təklif edir. Sabimed Sağlık Turizmi Komandası olaraq, qonaqlarımıza ölkəmizdə keyfiyyətli, etibarlı və münasib qiymətli bir müalicə prosesi təklif etmək əsas prioritetimizdir. Hər il yüz minlərlə insanın müalicə təşkilatını üstlənən şirkətimiz, müalicə prosesinə duyulan məsuliyyətlə xidmət keyfiyyətini günü-gündən artırmağı məqsəd edir."
     },

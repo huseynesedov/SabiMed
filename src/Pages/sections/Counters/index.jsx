@@ -91,15 +91,6 @@ const Sayac = () => {
               </div>
               <div data-aos="zoom-in" className="counter-div">
                 <h2>
-                  {sayac2}+
-                </h2>
-                <p>
-                  {t("counters.patient")}
-
-                </p>
-              </div>
-              <div data-aos="zoom-in" className="counter-div">
-                <h2>
                   {sayac3}+
                 </h2>
                 <p>
@@ -107,6 +98,16 @@ const Sayac = () => {
 
                 </p>
               </div>
+              <div data-aos="zoom-in" className="counter-div">
+                <h2>
+                  {sayac2}+
+                </h2>
+                <p>
+                  {t("counters.patient")}
+
+                </p>
+              </div>
+              
               <div data-aos="zoom-in" className="counter-div">
                 <h2>
                   {sayac4}+

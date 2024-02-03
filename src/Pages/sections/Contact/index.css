@@ -21,7 +21,11 @@
 
 }
 
-
+.sectionSix{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .left {
     padding: 19px 24px;
@@ -93,7 +97,6 @@
 @media screen and (max-width: 768px) {
     .blog-center {
         display: flex;
-        height: 0% !important;
         flex-direction: column;
     }
     

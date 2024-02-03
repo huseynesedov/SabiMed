@@ -263,7 +263,7 @@ nav .navbar {
 
 
 nav .navbar .nav-links {
-  line-height: 70px;
+  line-height: 90px;
   height: 100%;
 }
 
@@ -288,8 +288,13 @@ nav .navbar .links li a {
   color: #020202;
   font-size: 17px;
   font-weight: 500;
+transition: 0.2s;
 }
 
+nav .navbar .links li a:hover {
+color: #59D8BF;
+transition: 0.2s;
+}
 .links li:hover .htmlcss-arrow,
 .links li:hover .js-arrow {
   transform: rotate(180deg);
@@ -491,18 +496,7 @@ ul {
 
 @media (max-width:800px) {
 
-  .search-tb {
-    position: absolute;
-    width: 77%;
-    height: 250px;
-    background-color: #C93535;
-    right: 40px;
-    top: 114px;
-    margin-top: 50px;
-    overflow: scroll;
-    border-radius: 5px;
-    overflow-x: hidden;
-  }
+
 
   body::-webkit-scrollbar {
     width: 1em;
@@ -514,7 +508,7 @@ ul {
 
   body::-webkit-scrollbar-thumb {
     border-radius: 50px;
-    background-color: darkgrey;
+    background-color: #59D8BF;
   }
 
   .search-tb::-webkit-scrollbar {
