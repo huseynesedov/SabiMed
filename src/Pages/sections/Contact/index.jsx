@@ -30,7 +30,7 @@ function Contact() {
                                         <h6>
                                         {t("Contact.phone")}
                                         </h6>
-                                        <p>+90 540 340 60</p>
+                                        <p>+905363378127</p>
                                     </div>
                                 </div>
 
@@ -57,7 +57,10 @@ function Contact() {
                                         <h6>
                                         {t("Contact.mail")}
                                         </h6>
-                                        <p>asadof28@gmail.com</p>
+                                        <a href="mailto:info@sabimed.info">
+
+                                        <p>info@sabimed.info</p>
+                                        </a>
                                     </div>
                                 </div>
                             </div>

@@ -24,15 +24,9 @@ function Footer() {
                                 {t("footer.the")}
                             </p>
                             <div className="social_icons">
-                                <Link to="">
+                                <Link to="https://www.instagram.com/sabimed_health_company/">
                                     <span className="i ii" >
                                     <FaInstagram />
-                                    </span>
-                                </Link>
-                                <Link to="">
-                                    <span className="i" >
-
-                                    <FaFacebook />
                                     </span>
                                 </Link>
                             </div>
@@ -45,20 +39,23 @@ function Footer() {
 
                                     <CgMail/>
                                     </span>
-                                    <span>admin@onlineittuts.com</span>
+                                    <a href="mailto:info@sabimed.info">
+
+                                    <span>info@sabimed.info</span>
+                                    </a>
                                 </li>
                                 <li>
                                     <span className="i" >
 
                                     <FaMapLocationDot />
                                     </span>
-                                    <span>A108 Adam Street, New York, NY </span>
+                                    <span>Çukurambar Mah. Malcolm X Cad. Karaca Plaza, 8/5-6 Kat 3, Çankaya/Ankara</span>
                                 </li>
                                 <li>
                                     <span className="i" >
                                         <FaPhoneAlt />
                                     </span>
-                                    <span>+15589 55488 55</span>
+                                    <span>+905363378127</span>
                                 </li>
                             </ul>
                         </div>
