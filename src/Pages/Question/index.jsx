@@ -9,7 +9,7 @@ function Question() {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>SabiMed - Sık Sorulan Sorular</title>
+        <title>SabiMed - Question</title>
       </Helmet>
 
       <Navbar />

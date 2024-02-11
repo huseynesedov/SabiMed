@@ -10,7 +10,7 @@ function contact() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed - İletişim</title>
+                <title>SabiMed - Contact</title>
             </Helmet>
 
             <Navbar />

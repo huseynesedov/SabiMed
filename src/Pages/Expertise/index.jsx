@@ -9,7 +9,7 @@ function expertise() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed - Uzmanlık Alanları</title>
+                <title>SabiMed - Expertise</title>
             </Helmet>
 
             <Navbar />

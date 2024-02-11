@@ -14,7 +14,7 @@ function Bone() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed</title>
+                <title>SabiMed - Bone Marrow</title>
             </Helmet>
 
 

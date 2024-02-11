@@ -14,7 +14,7 @@ function Size() {
         <>
            <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed</title>
+                <title>SabiMed - Lengthening</title>
             </Helmet>
 
             <Navbar />

@@ -12,8 +12,8 @@ import { Link } from 'react-router-dom';
 
 const dillerTablo = [
     { name: "Türkçe", code: "tr" },
-    { name: "English", code: "en" },
     { name: "Azerbaycan", code: "az" },
+    { name: "English", code: "en" },
     { name: "Россия", code: "ru" },
     { name: "Almanya", code: "de" },
     { name: "Français", code: "fr" },

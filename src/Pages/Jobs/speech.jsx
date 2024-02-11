@@ -14,7 +14,7 @@ function Speech() {
         <>
            <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed</title>
+                <title>SabiMed - Tongue Tumor</title>
             </Helmet>
 
             <Navbar />

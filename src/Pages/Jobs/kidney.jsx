@@ -14,7 +14,7 @@ function Kidney() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed</title>
+                <title>SabiMed - Kidney Transplant</title>
             </Helmet>
 
             <Navbar />

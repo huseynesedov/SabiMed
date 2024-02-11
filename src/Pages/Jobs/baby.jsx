@@ -14,7 +14,7 @@ function Arm() {
         <>
            <Helmet>
                 <meta charSet="utf-8" />
-                <title>SabiMed</title>
+                <title>SabiMed - In Vitro Fertilization Treatment</title>
             </Helmet>
 
             <Navbar />
