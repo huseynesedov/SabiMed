@@ -31,7 +31,6 @@ function About() {
 
                         </div>
                         <div className="right">
-                            <img src="https://ozkandangroup.com/wp-content/uploads/2023/02/Ozkandan-Tursab.png" alt="" />
                             <img className='img1' src="https://ozkandangroup.com/wp-content/uploads/2023/02/yerli-e1671008022384.png" alt="" />
                         </div>
 
